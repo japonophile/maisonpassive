@@ -1,0 +1,16 @@
+---
+layout: post
+title: "0,52"
+date: "2011-10-18"
+type: post
+published: true
+status: publish
+---
+
+Test d’infiltrométrie en cours  
+Volume du batiment recalculé= 379 m³  
+Limite de renouvèlement d’air \* 0.6 = 224m³  
+Premier test = 192 m³  
+La valeur limite de 0,6 n’est pas atteinte, avec assez de certitude pour laisser tranquillement le test se dérouler .
+
+Champagne !

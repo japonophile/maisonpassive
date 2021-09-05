@@ -1,0 +1,10 @@
+---
+layout: post
+title: "midi dernière 20110301"
+date: "2011-03-01"
+type: post
+published: true
+status: publish
+---
+
+Finalement, le joint que j'ai réussi à poser sous la crépine du lavabo remplit son office: étanchéité à l'eau et nous avons dons un lavabo fonctionnel. En plus de ça, la ligne sdb, 16 A sous 30 mA, qui ne fonctionnait pas, vient de retrouver la santé (un wago mal connecté ;-( )

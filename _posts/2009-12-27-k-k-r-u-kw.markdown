@@ -1,0 +1,40 @@
+---
+layout: post
+title: "k-K-R-U-Kw"
+date: "2009-12-27"
+type: post
+published: true
+status: publish
+---
+
+Holà là quelle soupe je suis occupé à faire!
+
+J’ai toujours eu du mal à comprendre et à situer correctement les coefficients utilisés pour mesurer la résistance thermique des bâtiments.
+
+Il faut dire que la mise au point de ces estimations n’a pas été une partie de plaisir pour ceux qui s’y sont livrés, et les divisions, inversions, reports de base m’ont paru difficile à suivre.
+
+[![Savant n'est-il pas? mais c'est pas de moi...](/images/2009/12/formule_resistance_thermique-300x233.jpg "formule_resistance_thermique")](/images/2009/12/formule_resistance_thermique.jpg)
+
+ Pour le moment, disons que  le coefficient K d’une habitation indique la mesure dans laquelle l’habitation est bien isolée dans son ensemble. Le coefficient K est déterminé par les valeurs U et R des différentes parties du mur et par la compacité de l’habitation. J’en suis donc arrivé à la conclusion que le fameux K (qu’il soit 55, 45, 35, 20 ou 15) n’est pas réellement suffisant pour déterminer les besoins d’énergie pour chauffer les bâtiments isolés selon ce niveau.
+
+[![C'est ceci qui fait la maison passive](/images/2009/12/La-Maison-Passive-1-300x274.jpg "La-Maison-Passive-1")](/images/2009/12/La-Maison-Passive-1.jpg)
+
+En effet, il n’est pas question de mesurer les besoins en chauffage pour alimenter la température de l’air, mais seulement les déperditions. C’est déjà un bon début. Inutile d’essayer de réduire la circulation d’air à chauffer soi de toutes façons les murs le refroidissent en pompant la chaleur qu’on y injecte.
+
+Pour déterminer la qualité d’isolation de ma construction, je me tournerai donc vers le coefficient U des parois  Je rappelle U  (W/m².k) = e (m) / lambda  (Watts/m/C°))
+
+Et c’est là que ça commence : D’où vient ce k là ? ce ne devrait pas être plutôt un °C ?
+
+Bien. Supposons que j’ai trouvé : U mesure la « consommation » de la paroi en W / m² . °C. J’ai donc défini le besoin de mon batiment pour compenser les déperditions de chaleur par les parois.
+
+Reste que le besoin de chauffage d’une maison passive s’exprime en Kw / m² /an.
+
+[![](/images/2009/12/graphique-rentabilite-passif-bbc-300x224.jpg "graphique-rentabilite-passif-bbc")](/images/2009/12/graphique-rentabilite-passif-bbc.jpg)
+
+Mais ici le m² est en surface au sol (tiens, on ne tient pas compte dans cette définition de la hauteur sous plafond, donc de la quantité d’air qui peut varier dans une proportion importante). Donc une maison sera plus vite passive si les plafonds sont bas.
+
+C’est sans doute logique d’encourager les économies, mais pas très sain de faire abstraction des conditions minimales de salubrité. Quoique… ces règles de hauteur sous plafond, ça varie avec le temps et les pays, et qui sait la taille moyenne de la population, non ?
+
+J’aimerais bien faire le lien entre les différents m², et aussi entre les °C et la durée d’une année.
+
+[](/images/2009/12/formule_resistance_thermique.jpg)

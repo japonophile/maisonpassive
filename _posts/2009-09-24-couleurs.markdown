@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Couleurs"
+date: "2009-09-24"
+type: post
+published: true
+status: publish
+---
+
+Une semaine d’attente plus une semaine de vacances plus une semaine de travail : il y a bien 3 semaines que je n’ai plus posté, et les fidèles de cette constructions doivent se demander ce que cela devient.
+
+Voila l’aspect actuel (provisoire !) de la construction :
+
+ ![la doudoune de XPS](/images/2009/09/img_0681-300x224.jpg "la doudoune de XPS")
+
+Elle est donc passée du blanc au noir puis au rose saumon en mettant sa doudoune de XPS.
+
+Isolation extérieure : 22 cm de polystyrène extrudé en 4 couches, λ = 0,034, soit un facteur d’isolation pour le mur de U = 0,11.
+
+Suivra une membrane drainante (delta MS) appliquée avant de combler l’excavation qui entoure la construction. Dans quelques semaines (2 ou 3 j’espère selon temps qu’il va faire) , le sol aura retrouvé son aspect « d’origine ».
+
+Bien sur, il faudra d’ici là avoir prévu les évacuations et les cuves enterrées.
+
+Il y aura une fosse septique et deux cuves à eau de pluie. En tout dix m³ de terre qui trouveront place dans les trous. Et l’amorce de la conduite du puits canadien qui sera enterré dans une phase ultérieure.
+
+L’idée principale et de dégager un espace au nord de la construction pour établir le nouveau chantier, parce qu’au sud, l’espace disponible est peu accessible depuis la route, donc cela rend délicate la livraison des matériaux : il y a encore 10 palettes de blocs de béton cellulaire, puis une vingtaine de poutres TJI, la sous toiture, les bardages, bois et métal, sans compter les bois qui serviront de structure de maintient pour l’isolation du toit et des murs au-dessus du sol. Je ne fais pas le compte des camions qui passeront encore sur ce chemin…

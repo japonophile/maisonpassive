@@ -1,0 +1,44 @@
+---
+layout: post
+title: "marbella"
+date: "2011-03-20"
+type: post
+published: true
+status: publish
+---
+
+Ca sonne comme une plage de la costa del sol, mais c’est le nom de ce qui me tiendra lieu de « fer à repasser »
+
+_[![](/images/2011/03/ferarepasser-150x150.jpg "ferarepasser")](/images/2011/03/ferarepasser.jpg)_
+
+En effet je viens de prendre une importante décision concernant le chauffage d’appoint de la maison passive.
+
+En constatant que durant les deux mois de novembre et décembre, nous avons eu 4 h d’ensoleillement en 60 jours, force m’est de constater que durant huit longues semaines, je n’aurais eu avec l’appoint électrique, qu’un maigre filet d’eau tiède et beaucoup de difficultés à compenser les deux degrés de différence entre l’air entrant et l’air sortant de ma VMC.
+
+Un ou deux jours avec l’appoint électrique, c’est tout à fait possible, mais huit semaines, ça fait long. Il faudrait donc renforcer les équipements minimum que j’ai prévu (pour l’eau, réchauffeur de passage à 5 l/min, et pour l’air, chaufferette avec une résistance de 1500 w).
+
+Hors la consommation d’électricité devrait à mon sens rester très marginale en ce qui concerne le chauffage. Il est capital de réserver le pétrole à la chimie, l’électricité –on la dit « énergie noble », qu’elle le soit donc- au développement de puissance (le travail, en somme), et la production de chaleur aux ressources qui la produisent directement : soleil, bois, biomasse, etc. J’ai sur mon terrain plusieurs stères de bois coupé, et là où je suis, c’est un sous produit valorisé comme ils le peuvent par les exploitants forestiers. Cette sorte de bois est inutilisable pour la menuiserie et donc convient tout à fait à cet objectif. Le dégagement de CO2 provoqué par cette combustion sera compensé assez rapidement (dans le siècle qui suit) par la saine gestion de la forêt dans laquelle je construis. Écologiquement, l’empreinte sera minime.
+
+Vous vous en doutez, je viens de décider d’installer finalement un poêle à bois.
+
+Mais pas n’importe lequel. Ma première prospection sur le marché des poêles convenant pour les maisons passive m’avait fort déçu : prix surfait, surdimensionnement des appareils, et limitation des performances à la production d’air chaud.
+
+Le surf a parfois du bon : j’ai fini pas trouver mon bonheur sur un site allemand.
+
+J’ai tapé « poêle bouilleur », et j’ai trouvé parmi les 29000 réponses obtenues, un lien vers le site de [ofenseite.com](http://www.ofenseite.com/Accueil ) où j’ai trouvé :
+
+ _[![](/images/2011/03/wasserfuehrender-Holzofen-Marbella-Compact_b4-226x300.jpg "wasserfuehrender-Holzofen-Marbella-Compact_b4")](/images/2011/03/wasserfuehrender-Holzofen-Marbella-Compact_b4.jpg)_ 
+
+Très allemand malgré quelques traductions, moi qui ai des difficultés avec les langues germaniques ( ;-) ), je me suis accroché et j’ai fini par prendre contact. J’ai reçu en retour, avec une proposition de commande, une description détaillée et technique de l’appareil.
+
+Puissance 10 kW, 90 % consacré au chauffage de l’eau, régulation de transfert de chaleur, foyer étanche et , ô surprise, ô bonheur, une certification mais hélas pas encore celle du PHI, Passiv Haus Institut.
+
+ _[![](/images/2011/03/certif-219x300.jpg "certif")](/images/2011/03/certif.jpg)_ 
+
+Zut et rezut, moi qui croyais me lancer dans l’appel d’offre pour un test d’infiltrométrie, je dois d’abord installer ce poêle et assurer l’étanchéité des conduites !
+
+Entre temps, j’ai avec l’aide de Douglas - ou plutôt Douglas avec mon aide – résolu le problème de la PC (prise de courant en jargon d’installation électrique) qui n’était alimentée que par une phase. Le cable du neutre n’était pas correctement raccordé au « [wago](http://www.wago.com/cps/rde/xchg/wago/style.xsl/fra-index.html) » de la connexion précédente dans le circuit ! je pense que je vais faire le tour de mes boites pour inspecter les points faibles que je pourrais avoir laissé derrière moi.
+
+ _[![](/images/2011/03/revlmont110319-300x300.jpg "revlmont110319")](/images/2011/03/revlmont110319.jpg)_ 
+
+Et à temps perdu, je continue à bichonner la préparation de l’installation de la cuisine pour le 29/03 : placer les robinets double service, vérifier les dimensions de la hotte, la boite de dérivation pour le branchement de la taque à induction… Il ne me restera plus qu’à coller les évacuations d’eau, mais pour cela, j’attends que le monteur soit sur place pour me certifier que je ne devrai pas les déplacer pour qu’il puisse mettre ses meubles.

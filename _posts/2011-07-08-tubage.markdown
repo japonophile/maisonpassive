@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Tubage"
+date: "2011-07-08"
+type: post
+published: true
+status: publish
+---
+
+Entre quelques journées consacrées à la pose du bardage, j’ai pris le temps, un jour de pluie, de mettre en place le réseau de la VMC
+
+Réseau si l’on peut dire puisqu’il n’y a que deux conduites : la  pulsion et l’aspiration
+
+la  pulsion part du local technique pour arriver, avec deux bouches intermédiaires dans l’espace sommeil, jusqu’au coin supérieur au sud ouest de séjour. Soit une quinzaine de mètres de tube en 120 mm de diamètre.
+
+[![](/images/2011/07/SAM_1278-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/07/SAM_1278.jpg)
+
+pour l’aspiration, c’est tout aussi simple la conduite part de la cuisine (une bouche d’aspiration et une prise dans la hotte aerolock) passe par la toilette de rez de chaussée (un prise d’air dans ce local, descend dans le coin de l’escalier et rentre dans la salle de bain ou il y a encore une dernière bouche d’aspiration avant l’arrivée dans le local technique,. Là, la conduite doit mesurer royalement 8 metres en tenant compte des coudes pour les changements de direction.
+
+[![](/images/2011/07/SAM_1292-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/07/SAM_1292.jpg)
+
+Le montage est assez facile, les pièces s’emboitent parfaitement, il n’y a pas de possibilité d’erreur ou d’inversion.
+
+[![](/images/2011/07/SAM_1286-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/07/SAM_1286.jpg)
+
+Juste une perceuse pour fixer les colliers, une disqueuse pour couper les bonnes longueurs de tube, un mètre et un niveau pour respecter autant que se peut les alignements, et en quelques heures, deux jours de travail pour moi, le tour est joué.
+
+[![](/images/2011/07/SAM_1309-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/07/SAM_1309.jpg)
+
+Le point d’attention supplémentaire, c’est la propreté méticuleuse de l’intérieur des tubes.
+
+[![](/images/2011/07/SAM_1308-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/07/SAM_1308.jpg)
+
+Je dois encore poser et raccorder l’unité centrale, placer les conduites de liaison avec l’extérieurs (aspiration par le puits canadien avec bypass, expulsion à coté, et rendrez)vous est prie avec l’intallateur pour dans 3 semaines, pour la mise en route.
+
+[![](/images/2011/07/SAM_1330-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/07/SAM_1330.jpg)
+
+A bientot pour d'autres aventures.../...

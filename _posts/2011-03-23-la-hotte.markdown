@@ -1,0 +1,56 @@
+---
+layout: post
+title: "la hotte"
+date: "2011-03-23"
+type: post
+published: true
+status: publish
+---
+
+Élément essentiel dans une cuisine, la hotte a évidemment pour but de retirer de la cuisine principalement les odeurs, et accessoirement les graisses répandues dans l’ambiance générale de la maison, en l’occurrence la pièce de vie puisque que ma cuisine n’en est pas séparée physiquement (pas de mur, nous avons opté pour un type d’habitation où le volume global se module suivant les besoins).
+
+Habituellement on place au-dessus de la zone de cuisson  un puissant extracteur d’air qui aspire largement les vapeurs et émanations provoquées pendants les quelques dizaines de minutes consacrées à la préparation des plats, et les rejette à l’extérieur. Je cite :
+
+**_[Réutilisation contre évacuation](http://www.guidedelacuisineequipee.be/fr/electromenagers-hottes-efficacite-recyclage.php   )_**
+
+_Une hotte qui est installée en mode réutilisation – ou recyclage – est, d’un point de vue énergétique, plus intéressante : l’air de la cuisine n’est pas rejeté dehors mais est toujours renvoyé, après filtrage, dans la pièce. L’inconvénient est qu’on ne se débarrasse pas des vapeurs de cuisson. Ce genre de hotte est facile à installer mais exige un remplacement régulier du filtre à charbon actif._
+
+_Une hotte avec extraction d’air évacue l’air chaud de la cuisine vers l’extérieur, ce qui n’est pas vraiment intéressant en hiver car de l’air froid de l’extérieur est injecté à l’intérieur pour permettre un bon fonctionnement de la hotte. L’avantage est que toute la vapeur (humide) de cuisson est efficacement évacuée. Ce genre de hotte exige certaines connaissances pour pouvoir l’installer mais elle reste plus simple à entretenir._
+
+Dans une maison conventionnelle, aucune importance d’expulser momentanément un grand volume d’air, puisque de toutes façon, la ventilation n’est ni contrôlée ni provoqué. La perte importante de calories ne se remarque pas, puisque l’appel de chaleur rendu nécessaire par cette perte est immédiatement compensé par le système de chauffage.
+
+Dans une maison passive, le problème se pose autrement : la ventilation est contrôlée, les entrées et les sorties d’air sont équilibrées par un système centralisé. Il y a alors trois possibilités pour gérer ce flux d’air vicié.
+
+Le plus logique à mon sens est d’intégrer l’évacuation des vapeurs de cuisine à la ventilation générale, moyennant quelques conditions pour éviter de faire subir à l’échangeur de chaleur les agressions dues à la « qualité » de l’air extrait de la cuisine.
+
+Une autre solution est de considérer que la cuisson des aliments n’occupe qu’une tranche réduite de la journée et qu’il est tout a fait tolérable de déséquilibrer la ventilation pendant quelques dizaines de minutes, pour évacuer directement cet air chargé de vapeurs, d’odeurs et de graisses. Le problème à ce moment est de connecter une hotte traditionnelle sur une évacuation contrôlée qui peut se fermer de façon suffisante pour ne pas handicaper le système à double flux en dehors des temps d’utilisation.
+
+![](/images/2011/03/schema-extraction-300x226.jpg "schema-extraction")
+
+J’ai reçu la proposition d’un système :
+
+[![](/images/2011/03/compair-237x300.jpg "compair")](http://www.naber.de/index.php?id=224&L=3)
+
+Une troisième solution, je l’aborde parce qu’elle est celle qui est le plus communément recommandée, mais à laquelle je ne crois pas vraiment, c’est la hotte à recyclage avec filtration a charbon actif.
+
+[![](/images/2011/03/schema-recyclage-300x226.jpg "schema-recyclage")](http://www.inspirationcuisine.com/dossiers/evacuation-ou-recyclage-comment-bien-choisir-sa-hotte/)
+
+Outre la contrainte d’utiliser des filtres particulièrement sophistiqués et -probablement- couteux, je crains de devoir reprocher à ce système une efficacité assez faible au niveau de l’évacuation, tant des graisses que des odeurs et de la vapeur d’eau.
+
+Vous me direz : le charbon actif absorbe les odeurs (hum), les graisses sont prises au piège du filtre de laine d’acier, (d’accord), et la vapeur d’eau est un bienfait avec une VMC DF qui assèche l’atmosphère.
+
+Sur ce dernier point j’ai déjà dit que mes craintes sont nulles, je n’aurai pas un air trop sec en forêt.
+
+Quant aux graisses, [la hotte à recyclage](http://www.bricozone.be/fr/cuisine-equipee/t-hotte-a-recyclage-ou-a-evacuation--7720.html) ne diffère pas d’une hotte conventionnelle, la qualité de la filtration dépend de l’état d’entretien des filtres.
+
+Et quant aux odeurs, je reste extrêmement septique, je pense que l’extraction est le seul moyen de se débarrasser véritable des composés aromatiques, sauf à les laisser se déposer dans la pièce et à composer une odeur de fond qui persiste en toutes circonstances.
+
+On m’a dit : une hotte traditionnelle expulse entre 3 et 10 fois plus d’air que celle que je compte utiliser.
+
+Oui, mais elle ne fonctionne pas en permanence. La mienne sera branchée 24h/24, comme la VMC
+
+Une hotte sans moteur a l’inconvénient de laisser les vapeurs se dégager tout à l’entour de la zone de cuisson. C’est pour cela que j’ai été séduit par le système que j’ai choisi : un moteur génère autour de la zone de cuisson un rideau d’air qui emprisonne les vapeurs, contraint les graissés à passer dans le filtre métallique et les odeurs à suivre la vapeur d’eau jusqu’à l’échangeur de chaleur. Si j’entretiens mon filtre à graisses de manière correcte (lave vaisselle aussi souvent que nécessaire), mon échangeur de chaleur ne subira pas les assauts des graisses, par contre il va récupérer la chaleur produite par la cuisson des aliments, appoint non négligeable.
+
+[![](/images/2011/03/aerolock11-300x193.jpg "aerolock1")](/images/2011/03/aerolock11.jpg)
+
+Ce système aerolock de Novy semble être secret et abandonné. (pas de lien sur ce produit) Je n’ai pas eu le fin mot de l’histoire, mais je crois qu’il s’agit essentiellement d’un problème commercial : le marché pour ce type de produit doit être fort étroit : il faut une VMC df, donc une maison passive, et il faut comme moi choisir cette troisième voie de renouvèlement de l’air de la cuisine, ce qui n’est pas très courant semble-t-il.

@@ -1,0 +1,50 @@
+---
+layout: post
+title: "ooops ;-("
+date: "2011-04-03"
+type: post
+published: true
+status: publish
+---
+
+Quelques nouvelles en vrac : tout avance assez rapidement maintenant et de tous les cotés, donc il devient urgent de faire le point.
+
+Tout d’abord, voici les carottes dont je parlais la semaine passée :
+
+[![](/images/2011/04/SAM_1015-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1015.jpg)
+
+La seconde (ou première suivant le sens dans le quel on le prend) volée de l’escalier est définitivement coulée en béton. 5 marches avant le palier qui couvre la « cave » où j’ai installé le compresseur pour l’eau de pluie tirée de mes citernes.
+
+[![](/images/2011/04/SAM_1018-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1018.jpg)
+
+M’inspirant du « plancher collaborant », j’ai utilisé comme coffrage une plaque de tole qui me restait de la toiture, et je la laisse sur place. Pas la peine de décoffrer dans un espace qui finalement ne sert qu’à alléger l’ouvrage.
+
+[![](/images/2011/04/SAM_1022-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1022.jpg)
+
+Il nous aura quand même fallu huit brouettes de béton pour remplir ces 5 marches, en tenant compte d’une paillasse de 12 cm et des ancrages dans les deux murs latéraux. Ces marches ne reposent finalement que sur ces ancrages, puisque la chape qui est dessous, reposant sur la couche d’isolation en PUR, ne peut en réalité rien porter. aussi j'ai doublé le ferraillage, par mesure de prudence
+
+Même format de marche (27 cm de marche, 17 cm de contre marche) même foulée, cet escalier est incroyablement confortable. Et c’est tant mieux, parce que je pense qu’on y passera assez souvent.
+
+À la suite de ce nouvel aménagement, j’attendais la livraison et l’installation de la nouvelle cuisine que nous avons commandée chez [eggo](http://www.eggo.be/kitchen-house-francais/index.php) ®. Livraison le 25, les monteurs étaient à pied d’oeuvre le 29. Équipe agréable, consciencieuse, inventive. Ils ont eu un peu de stress avec le plan de travail et j’ai hélas l’impression qu’ils n’ont pas réussi à placer correctement la contre porte du surgélateur.
+
+[![](/images/2011/04/SAM_1007-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1007.jpg)
+
+Tout est bien qui finit bien… quand c’est fini.
+
+Je dis ça parce que j’ai eu LA mauvaise surprise de ce chantier à mon arrivée sur place vendredi après deux jours d’absence.
+
+Une inondation totale du rez de jardin, pas de courant - le réseau électrique sous eau – la distribution d’eau dans la cuisine présente pour le moins des faiblesses.
+
+En quatrième vitesse, couper les robinets d’arrêt, tenter d’isoler les murs les plus détrempés, aérer et commencer à sécher.
+
+Comment localiser les fuites, qui ne sont pas apparues jusqu’à aujourd’hui ?
+
+De toute évidence, c’est sur les nouvelles liaisons que j’ai mis en route vers la cuisine que se situent les pertes. Et je me rends compte qu’une partie du réseau n’a pas été testée : il n’y avait pas d’eau chaude ni de moyen de mettre de la pression sur les conduites qui desservent la cuisine quand j'ai posé la lignes d'alpex. Ce détail m’a échappé après la fin des platres et la mise en service du ballon d’eau chaude.
+
+Ce qui devait arriver est arrivé, une des deux conduites qui alimentent l’évier de la cuisine n’est pas étanche.
+
+Le plus gros inconvénient est que, comme j’ai laissé couler cette fuite pendant mes deux jours d’absence, il faut maintenant attendre que tout sèche avant de pouvoir intervenir.
+
+Que celui qui n’a jamais fait de bourde me jette la première pierre. Je suis à mon sens assez puni de mon insouciance sans subir vos sarcasmes.
+
+[« Il faudrait que vous me souteniez plutôt que de m'écraser »](http://www.lalibre.be/actu/belgique/article/652547/le-prince-laurent-demande-a-la-presse-de-le-soutenir-plutot-que-de-l-ecraser.html ) dit en ce moment même un autre personnage célèbre, lui aussi victime de ses prises de positions toutes personnelles. Enfin, il n’ya que ceux qui ne font rien qui ne se trompent pas. Puisse cette aventure me servir de leçon.

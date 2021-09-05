@@ -1,0 +1,22 @@
+---
+layout: post
+title: "fenetre"
+date: "2010-12-08"
+type: post
+published: true
+status: publish
+---
+
+[**PR****ÉVISIONS MÉTÉO POUR CERFONTAINE**](http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2009/07/04.dhtml)
+
+<table border="1" cellspacing="0" cellpadding="0"><tbody><tr><td width="133" valign="top"><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/10.dhtml">ven. 10/12</a><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/10.dhtml"></a><div></div><strong><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/10.dhtml">-1°&nbsp;|&nbsp;2°</a></strong><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/10.dhtml">17%</a></td><td width="133" valign="top"><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/11.dhtml">sam. 11/12</a><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/11.dhtml"></a><div></div><strong><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/11.dhtml">2°&nbsp;|&nbsp;4°</a></strong><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/11.dhtml">16%</a></td><td width="133" valign="top"><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/12.dhtml">dim. 12/12</a><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/12.dhtml"></a><div></div><strong><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/12.dhtml">2°&nbsp;|&nbsp;3°</a></strong><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/12.dhtml">12%</a></td><td width="133" valign="top"><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/13.dhtml">lun. 13/12</a><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/13.dhtml"></a><div></div><strong><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/13.dhtml">0°&nbsp;|&nbsp;1°</a></strong><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/13.dhtml">12%</a></td><td width="133" valign="top"><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/14.dhtml">mar. 14/12</a><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/14.dhtml"></a><div></div><strong><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/14.dhtml">-2°&nbsp;|&nbsp;0°</a></strong><div></div><a href="http://www.7sur7.be/7s7/fr/weather/forecast/1534/705630312/La-meteo-a-Cerfontaine/2010/12/14.dhtml">13%</a></td></tr></tbody></table>
+
+c'est ce que j'appellerais une fenetre de prévision, plutot optimiste.
+
+Chacun voit midi à sa fenetre.
+
+moi je cherche une paire de jours de températures positives, et je m'accroche quand  je crois les avoir trouvées.
+
+par exemple sur [accuweather](http://www.accuweather.com/forecast.aspx?partner=accuweather&metric=1&loc=EUR|BE|BE008|CERFONTAINE&week=15)
+
+<table border="1" cellspacing="0" cellpadding="0"><tbody><tr><td width="132" valign="top"><strong>vendredi Nuit 10/12/2010</strong><div></div>pluie et bruine<div></div>Tmp.min.:&nbsp;1°C<div></div>RealFeel:&nbsp;-4°C</td><td width="132" valign="top"><strong>samedi 11/12/2010</strong><div></div>pluie et bruine occasionnelles<div></div>Tmp.max.:&nbsp;5°C<div></div>RealFeel:&nbsp;2°C</td><td width="132" valign="top"><strong>samedi Nuit 11/12/2010</strong><div></div>pluie<div></div>Tmp.min.:&nbsp;2°C<div></div>RealFeel:&nbsp;2°C</td><td width="131" valign="top"><strong>dimanche 12/12/2010</strong><div></div>pluie<div></div>Tmp.max.:&nbsp;2°C<div></div>RealFeel:&nbsp;2°C</td><td width="131" valign="top"><strong>dimanche Nuit 12/12/2010</strong><div></div>nuages bas<div></div>Tmp.min.:&nbsp;-1°C<div></div>RealFeel:&nbsp;0°C</td></tr></tbody></table>

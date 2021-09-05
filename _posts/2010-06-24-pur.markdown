@@ -1,0 +1,54 @@
+---
+layout: post
+title: "PUR"
+date: "2010-06-24"
+type: post
+published: true
+status: publish
+---
+
+Un weekend pourri, sous la pluie et dans le froid.
+
+Le 19 et le 20 juin, il a fallu faire du feu dans la caravane, 14 degrés au milieu de la journée, ce n’est pas suffisant à mon gout. Heureusement que la réserve de bois est loin d’arriver a son terme.
+
+J’ai donc utilisé mon temps comme je le pouvais, en continuant à monter les caissons pour l’isolation extérieure. Le mur est recouvert sur une bonne moitié en dessous de la fenêtre du rez de chaussé (la plus haute), mais je n’ai pas réussi avec l’échafaudage dont je dispose à passer au dessus
+
+[![](/images/2010/06/IMG_0288-300x224.jpg "IMG_0288")](/images/2010/06/IMG_0288.jpg)
+
+J’ai alors attaqué le mur ouest, et là c’est plus facile : le remblai déposé à la fin de l’hivers m’a permis de monter plus haut. Il manque une poutre pour terminer le coin avec le mur sud.
+
+[![](/images/2010/06/IMG_03101-300x224.jpg "IMG_0310")](/images/2010/06/IMG_03101.jpg)
+
+Mardi 22, rendez-vous avec l’équipe d’isoproject
+
+[![](/images/2010/06/isoprojectq-300x155.jpg "isoprojectq")](/images/2010/06/isoprojectq.jpg)
+
+13, rue Léon Terwagne 6221 - Saint-Amand **0497 896 385**
+
+**0488 864 853**
+
+071 812 602
+
+Première étape : protection des portes et fenêtres
+
+[![](/images/2010/06/IMG_0300-300x224.jpg "IMG_0300")](/images/2010/06/IMG_0300.jpg)
+
+Deuxième étape : mettre la machine en route. Elle doit chauffer avant d’etre opérationnelle.
+
+[![](/images/2010/06/IMG_0303-300x224.jpg "IMG_0303")](/images/2010/06/IMG_0303.jpg)
+
+Troisième étape : projection
+
+[![](/images/2010/06/IMG_0297-300x224.jpg "IMG_0297")](/images/2010/06/IMG_0297.jpg)
+
+Et demain on recommence
+
+En effet, il n’est pas possible de projeter 25 cm d’un seul coup, il faut procéder par passes. Chaque couche provoque une élévation de température, due à la réaction des produits.
+
+Donc mardi, une première équipe dépose les premiers 12 cm
+
+Et mercredi matin, la seconde équipe vient compléter pour arriver à la hauteur voulue.
+
+Au total, pour la dalle de sol, avec 25 cm de Polyuréthane de lambda = 0,028
+
+<table border="0" cellspacing="0" cellpadding="0" width="274"><tbody><tr><td width="95"><strong>Valeur U:</strong></td><td width="118"><strong>0,105</strong></td><td width="62">W/(m²K)</td></tr></tbody></table>

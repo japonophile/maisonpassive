@@ -1,0 +1,40 @@
+---
+layout: post
+title: "G.O.F."
+date: "2010-08-21"
+type: post
+published: true
+status: publish
+---
+
+Je traduis : G.O.F = Gros œuvre fermé, c'est-à-dire les fondations, les murs, la charpente, le toit et les fenetres et portes extérieures.
+
+Je me demande à quel moment on parle de gros œuvre fermé. Je pense y être arrivé et il ne reste alors « plus que » le second œuvre à boucler pour terminer cette maison passive. Une bonne moitié du travail, diront certains, beaucoup plus que la moitié diront d’autres. Je réserve mon jugement, je manque encore d’expérience.
+
+Si je dis que je pense être arrivé à la fin du gros oeuvre, c’est qu’il me reste un doute. L’extérieur des murs de la maison est encore inachevé. Tant que le bardage ne sera pas posé, même si je veux croire à l’efficacité de mon parepluie, je me rends compte que tout ça demeure du provisoire. Il y a encore des endroits sensibles à la pluie, particulièrement les appuis de fenêtres.
+
+[](/images/2010/08/IMG_0005.jpg)[![](/images/2010/08/IMG_1060-300x224.jpg "IMG_1060")](/images/2010/08/IMG_1060.jpg)
+
+Et dans quelle mesure peut-on compter la brique de parement dans le second œuvre ? J’ai l’impression que dans le cadre d’une construction habituelle, elle est posée en même temps que les maçons élèvent les murs et placent l’isolation extérieure.
+
+Mon objectif prioritaire reste donc le choix définitif de ce bardage.
+
+Dans le même temps, le second œuvre peut enfin commencer. Clairement défini, le premier travail consiste à encastrer dans les murs tout ce qui doit y passer, avant de pouvoir passer à la réalisation des platres, le plafonnage qui assurera l’étanchéité à l’air de cette enveloppe si bien isolée.
+
+J’ai commencé par creuser un peu partout des trous dans mes murs – vive le béton cellulaire pour la facilité de ce travail – afin de poser les boites et de  passer les cables électriques d’une boite à l’autre, depuis le tableau de distribution jusqu’au dernier soquet de la dernière ampoule. Çà représente un peu plus de 500 m de cable triple sous gaine, qui va être déposé au sol ou enfoncé dans les saignées que je trace dans le mur.
+
+[![](/images/2010/08/IMG_0026-300x224.jpg "IMG_0026")](/images/2010/08/IMG_0026.jpg)
+
+Tracer les saignées est un jeu d’enfant au rez de chaussée, dont les murs sont en blocs C2/400. Une petite gouge à main suffit à suivre le tracé au crayon que j’ai marqué aux endroits ad hoc. Par contre au « rez de jardin », dans l’espace sommeil et la salle d’eau, les murs enterrés sont en blocs de C5/650, beaucoup plus difficile à creuser. Je me suis donc muni d’une petite disqueuse, et je vous certifie que ça fait pas mal de poussière. Vous vous en doutiez, je pense. Mais une fois la première ligne tracée, la gouge à main reprend du service et j’avance assez bien.
+
+Maintenant se pose le problème de l’implantation pratique de mon projet de réseau : ici la prise que j’avais demandée se trouve du mauvais coté de la porte, là l’interrupteur simple sera insuffisant je dois prévoir un va et vient, etc… Autant d’ajustements qui vont me demander de redessiner le schéma électrique reçu de [Selfmatic](http://www.selfmatic.be/index.php?pageID=8&prodID=8) avec le matériel que j’y ai acheté.
+
+[](/images/2010/08/IMG_0026.jpg)
+
+[![](/images/2010/08/IMG_0025-300x224.jpg "IMG_0025")](/images/2010/08/IMG_0025.jpg)
+
+[](/images/2010/08/IMG_0025.jpg)Mais c’est un autre problème qui ne se posera que le jour où je passerai le « contrôle technique » …
+
+D’ici là, j’avance
+
+…/…
