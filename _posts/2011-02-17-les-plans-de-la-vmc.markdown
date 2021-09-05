@@ -13,11 +13,11 @@ Samedi nous avons reçu la visite de [Rony et Anemie](http://paulverluchting.be/
 
 Nous avons déjà reçu la quantité nécessaire de tubes, les raccords utiles et les anneaux de fixation. Rony a expliqué comment assembler les tubes, comment diviser les longueurs et il a insiste de façon appuyée sur la propreté impeccable du réseau, et les possibilités de nettoyage à prévoir régulièrement. Conditions sine qua non pour que la VMC apporte confort et non désagrément. Choses sues, ça va sans dire, mais ça va encore mieux en le disant.
 
-[![](/images/2011/02/LOGO_PAUL.png "LOGO_PAUL")](/images/2011/02/LOGO_PAUL.png)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/LOGO_PAUL.png "LOGO_PAUL")]({{ site.url }}{{ site.baseurl }}/images/2011/02/LOGO_PAUL.png)
 
 Nous recevrons incessamment l’[unité centrale](http://paulverluchting.be/nieuws/de-focus-200-heeft-het-php-certificaat-behaald) pour que la position du départ des tuyaux puisse se faire logiquement.
 
-[![](/images/2011/02/focus_200-300x230.jpg "focus_200")](/images/2011/02/focus_200.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/focus_200-300x230.jpg "focus_200")]({{ site.url }}{{ site.baseurl }}/images/2011/02/focus_200.jpg)
 
 La main est à nous, pour poser et assembler ces fameux tubes.
 

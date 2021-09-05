@@ -37,6 +37,6 @@ Dans le lendemain, ce lundi, j’ai un autre projet en vue : puisque les corni�
 
 Pas encore de photo de tout ça. Alors je vous ressert une plus ancienne  :-)
 
-[![](/images/2011/06/SAM_1233-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/06/SAM_1233.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/06/SAM_1233-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/06/SAM_1233.jpg)
 
 la photo n'est plus d'actualité: le pan de mur devant la porte est bardé, et le mur ouest terminé. je suis au sud maintenant. Mais je n'ai pas encore documenté mon reportage. patience, ça vient!

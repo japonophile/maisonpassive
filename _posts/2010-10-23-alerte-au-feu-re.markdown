@@ -23,7 +23,7 @@ Il n’y a pas  - encore – de statistique sur les incendies de maisons passiv
 
 En attendant, ma maison passive progresse
 
-[![](/images/2010/10/SAM_0117-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/10/SAM_0117.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0117-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0117.jpg)
 
 Je continue à placer les blochets de mon réseau électrique pendant que Christine badigeonne les murs d’une lavasse jaune – knauf – servant d’imprégnation des blocs de béton cellulaire pour les rendre moins avides d’eau, donc plus faciles à plâtrer / plafonner (‘selon votre langue régionale)
 
@@ -35,7 +35,7 @@ D’ici là j’aurai mis en place les robinets des différents points d’eau d
 
 et entre temps j'ai encore reçu quelques camions de remblai destiné à couvrir à l'est les tuyaux et les cuves encore au dessus du sol.
 
-[![](/images/2010/10/SAM_0113-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/10/SAM_0113.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0113-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0113.jpg)
 
 Et pendant que j’avance dans la réalisations, d’autres en sont aux préliminaires
 

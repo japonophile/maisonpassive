@@ -21,7 +21,7 @@ Edingsesteenweg 63
 
 [**alustar.gta@telenet.be**](mailto:%20alustar.gta@telenet.be)
 
- _[](/images/2010/09/alustar.jpg)[![](/images/2010/09/alustar.jpg "alustar")](/images/2010/09/alustar.jpg)_ 
+ _[]({{ site.url }}{{ site.baseurl }}/images/2010/09/alustar.jpg)[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/alustar.jpg "alustar")]({{ site.url }}{{ site.baseurl }}/images/2010/09/alustar.jpg)_ 
 
 Efficace, dès la fin de la semaine, la première cuve de 4000 l était presque remplie.
 
@@ -33,11 +33,11 @@ Mais pourquoi donc se phénomène se produit-il et comment y mettre fin ?
 
 Si je me réfère au plan de masse,
 
- _[![](/images/2010/09/gouttière2-300x257.jpg "gouttière2")](/images/2010/09/gouttière2.jpg)_ 
+ _[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/gouttière2-300x257.jpg "gouttière2")]({{ site.url }}{{ site.baseurl }}/images/2010/09/gouttière2.jpg)_ 
 
 la gouttière devrait se trouver juste à ras de la tole de couverture.
 
- _[![](/images/2010/09/gouttière1.jpg "gouttière")](/images/2010/09/gouttière1.jpg) [](/images/2010/09/gouttière.jpg)_ 
+ _[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/gouttière1.jpg "gouttière")]({{ site.url }}{{ site.baseurl }}/images/2010/09/gouttière1.jpg) []({{ site.url }}{{ site.baseurl }}/images/2010/09/gouttière.jpg)_ 
 
 Malheureusement ça ne marche pas, parce que la gouttière n’est pas accrochée à cette tole, comme ça se serait produit si j’avais posé un seul profil en zinc d’un bout à l’autre de la toiture.
 
@@ -47,7 +47,7 @@ Le remède sera finalement asse simple
 
 J’ai commandé chez [Galva service](http://www.galva-service.com/fr/produits-galva-service/couverture-acier/accessoires-gs-38-t.html) (où j'ai trouvé ma toiture) une longueur de toles de la forme ci-dessous
 
- _[![](/images/2010/09/closoir-300x95.jpg "closoir")](/images/2010/09/closoir.jpg)_ 
+ _[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/closoir-300x95.jpg "closoir")]({{ site.url }}{{ site.baseurl }}/images/2010/09/closoir.jpg)_ 
 
 appelées ‘closoir’, justement parce qu’elles servent à ‘clore’ le bord de la tole là où elle rejoint le mur à la verticale.
 

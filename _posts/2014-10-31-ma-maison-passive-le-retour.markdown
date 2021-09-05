@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-Puisqu’après deux ans d’inactivité, mon blog est toujours visité avec une grande régularité [![stat dashb 20141030](/images/2014/10/stat-dashb-20141030-197x300.png)](/images/2014/10/stat-dashb-20141030.png) [![stat2 dashb 20141030](/images/2014/10/stat2-dashb-20141030-226x300.png)](/images/2014/10/stat2-dashb-20141030.png)
+Puisqu’après deux ans d’inactivité, mon blog est toujours visité avec une grande régularité [![stat dashb 20141030]({{ site.url }}{{ site.baseurl }}/images/2014/10/stat-dashb-20141030-197x300.png)]({{ site.url }}{{ site.baseurl }}/images/2014/10/stat-dashb-20141030.png) [![stat2 dashb 20141030]({{ site.url }}{{ site.baseurl }}/images/2014/10/stat2-dashb-20141030-226x300.png)]({{ site.url }}{{ site.baseurl }}/images/2014/10/stat2-dashb-20141030.png)
 
 Je reprends du service avec l’envie de partager comment on vit dans une maison passive.
 
@@ -23,7 +23,7 @@ Les graisses en quantité raisonnable sont très correctement retenues par le fi
 
 Vapeur d’eau et odeurs sont gérées par la VMC (c’est son rôle après tout).
 
-J’ai donc installé une hotte sans aspiration aerolock de Novy, j’en parle ici [la hotte]({% post_url 2011-03-23-la-hotte %}). Les vapeurs produites sur la table de cuisson sont enfermées dans un rideau d’air et s’évacuent dans le circuit général.
+J’ai donc installé une hotte sans aspiration aerolock de Novy, j’en parle ici [la hotte]({% link _posts/2011-03-23-la-hotte.markdown %}). Les vapeurs produites sur la table de cuisson sont enfermées dans un rideau d’air et s’évacuent dans le circuit général.
 
 Après 2 ans et demi d’utilisation, je peux apporter ceci à la discussion :
 

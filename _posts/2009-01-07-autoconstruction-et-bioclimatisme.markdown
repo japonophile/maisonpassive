@@ -31,7 +31,7 @@ A partir de ce moment, je me suis mis à phosphorer. Avec l’aide d’internet 
 
 La première épure ressemblait à ceci :
 
-![de l'air et du soleil](/images/2009/01/img017-300x206.jpg "premières esquisses") 
+![de l'air et du soleil]({{ site.url }}{{ site.baseurl }}/images/2009/01/img017-300x206.jpg "premières esquisses") 
 
 Et elle s’accompagnait d’un certain nombre de choix qui devenaient de plus en plus évidents.
 

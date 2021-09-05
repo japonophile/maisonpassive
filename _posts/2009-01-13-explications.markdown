@@ -27,7 +27,7 @@ Il faudra que je revoie ma conception de la construction passive.
 
 Ce n’est pas du tout ce que je dis, mais plutôt çà
 
-![pour commencer à comprendre](/images/2009/01/img296-214x300.jpg "img296")
+![pour commencer à comprendre]({{ site.url }}{{ site.baseurl }}/images/2009/01/img296-214x300.jpg "img296")
 
 ou encore, paru depuis peu  [Maisons passives](http://www.amazon.fr/dp/2350321282?tag=lamaisopass02-21&camp=1414&creative=6410&linkCode=as1&creativeASIN=2350321282&adid=1FDJYMVKVR7ESCC6H5XC&)
 

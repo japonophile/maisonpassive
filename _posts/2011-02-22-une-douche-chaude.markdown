@@ -17,15 +17,15 @@ L’ensemble, ça veut dire :
 
 \- mise en route du rotex, en espérant bien sur qu’il y ait assez de soleil pour le tester, ce qui est arrivé déjà plusieurs jours dans ces deux dernières semaines ;
 
-[![](/images/2011/02/SAM_0868-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0868.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0868-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0868.jpg)
 
 \- placement et raccordement du compresseur qui pompe l’eau de pluie de nos citernes : mon eau chaude est douce ;
 
-[![](/images/2011/02/SAM_0875-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0875.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0875-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0875.jpg)
 
 \- raccordement du radiateur sèche-serviette de la salle de bain, destiné à évacuer le trop de chaleur accumulée par le rotex ; il est pourvu d’un circulateur, mais j’ai pu me rendre compte cet après midi que quand le réservoir d’eau est chaud, il circule tout seul.
 
-[![](/images/2011/02/SAM_0857-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0857.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0857-225x300.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0857.jpg)
 
 Et en plus, vérification et fin de l’isolation des tubes de circulation sur le toit.
 
@@ -33,7 +33,7 @@ Je ne me rendais pas compte que l’eau de pluie, totalement sans calcaire, pouv
 
 Le fonctionnement du rotex est encore à découvrir. Il faudra que je reste un moment à regarder comment ça fonctionne, quand il y a assez de soleil, et quand je devrai avoir recours au petit réchauffeur que j’ai posé sur le circuit d’eau chaude de la douche.
 
-[![](/images/2011/02/SAM_0880-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0880.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0880-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0880.jpg)
 
 Je suis frappé de constater combien le drain back est efficace. Dès que la pompe s’arrête, les capteurs (ou de moins la circulation en tète des tubes) se vident en quelques secondes. Il de faudra pas plus longtemps (moins de 50 secondes) pour les remplir à nouveau quand le soleil permettra a nouveau de gagner quelques degrés pour mon eau chaude, ou quelques kilowatts d’origine solaire, totalement gratuits et sans nuisances. Cette vidange des capteurs et le bruit le plus remarquable de l’ensemble. La pompe de démarrage est très discrète pendant le 50 secondes de son fonctionnement, et la pompe, beaucoup plus faible, qui fait circuler l’eau dans les capteurs, est a peu près inaudible. D’autant qu’une sonde en régule la puissance suivant la nécessité de ralentir ou d’accélérer le mouvement de l’eau dans les capteurs.
 
@@ -51,6 +51,6 @@ J’ai donc fermé la vanne entre les deux conduites ce qui limite le pompage da
 
 A suivre donc.
 
-[![](/images/2011/02/SAM_0885-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0885.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0885-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0885.jpg)
 
 Je me demande bien où tout ça va nous mener...

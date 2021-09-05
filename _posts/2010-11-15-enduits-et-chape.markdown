@@ -13,7 +13,7 @@ J’ai eu peu de temps à consacrer aux nouvelles.
 
 Mais les enduits avancent à pas de géant
 
-[![](/images/2010/11/SAM_0214-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/11/SAM_0214.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/11/SAM_0214-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/11/SAM_0214.jpg)
 
 Les chapes suivent après un repérage photo complet
 

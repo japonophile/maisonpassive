@@ -45,7 +45,7 @@ _Cet ancrage en partie supérieure est vraiment le point délicat de l'ouvrage q
 
 Et il ajoute a ces conseils les dessins necessaires.
 
-[![](/images/2010/11/img007-300x215.jpg "img007")](/images/2010/11/img007.jpg)[![](/images/2010/11/img009-300x198.jpg "img009")](/images/2010/11/img009.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/11/img007-300x215.jpg "img007")]({{ site.url }}{{ site.baseurl }}/images/2010/11/img007.jpg)[![]({{ site.url }}{{ site.baseurl }}/images/2010/11/img009-300x198.jpg "img009")]({{ site.url }}{{ site.baseurl }}/images/2010/11/img009.jpg)
 
 Je me sens de plsu en plus instruit. En quelques jours j’ai acquis des notions sur le ferraillage, les normes habituelles, les volumes et poids à prendre en considération, les termes techniques tels que « empochement », « beton rustique », épingles.
 

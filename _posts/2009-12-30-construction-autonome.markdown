@@ -9,13 +9,13 @@ status: publish
 
 Je terminerai mes réflexions de l’année sur la constatation que l’autoconstruction peut être un processus dévorant… J’en veux pour témoin [La Forge de Bel-Air](http://forge-de-bel-air.over-blog.com/ "La forge de Bel Air"). Une initiative chère à mon cœur puisqu’elle m’a baladé quelques temps dans la campagne gersoise.
 
-[![](/images/2009/12/IMGP0733-300x225.jpg "IMGP0733")](/images/2009/12/IMGP0733.jpeg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2009/12/IMGP0733-300x225.jpg "IMGP0733")]({{ site.url }}{{ site.baseurl }}/images/2009/12/IMGP0733.jpeg)
 
 Je ne connais pas les tenants et les aboutissants de la mise en vente de la forge de Bel Air, mais cela prouve qu’on peut se heurter dans cette aventure comme tant d’autres à des difficultés insurmontables. Alors il est temps de changer de rythme, de se réorienter et de ne pas perdre l’espoir.
 
 _a vendre terrain 3,2 hectares et maison en bois poteaux poutres a terminer 120.000 euros en campagne, a 12 km de vic fezensac (gers) possibilité terrain 12 hectares contigus en plus pour 25.000 euros frais de notaire réduits contact : didier 06 28 35 69 68_
 
-[![](/images/2009/12/forge-de-bel-air-300x225.jpg "forge-de-bel-air")](/images/2009/12/forge-de-bel-air.jpeg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2009/12/forge-de-bel-air-300x225.jpg "forge-de-bel-air")]({{ site.url }}{{ site.baseurl }}/images/2009/12/forge-de-bel-air.jpeg)
 
 Il restera toujours quelque chose de l’expérience. Pour moi c’est la constatation qui occupe le bas de page de ce blog : **L'Autoconstruction ou 'Construction autonome', c'est le top quand on a beaucoup de temps et pas beaucoup d'argent! Autonomie de la construction, pas d'Artisans, mais plutôt des 'Artistes' de la construction. Et puis faire sa maison c'est comme faire sa bouffe... au moins on sait d'ou ça vient...Et puis, moi ça m'occupe... (on en reparlera dans 50 tonnes de ciment et 1 kilomètres de poutres en bois)... A suivre**
 

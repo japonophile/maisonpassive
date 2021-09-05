@@ -21,19 +21,19 @@ _[sprimw@base.be](mailto:sprimw@base.be)_
 
 Arrivée d’abord des petits chassis et des verres le mardi matin, et aussitôt mise en place des premières fenêtres avec les caissons montés sur place.
 
-[![](/images/2010/05/IMG_0125-300x224.jpg "IMG_0125")](/images/2010/05/IMG_0125.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/05/IMG_0125-300x224.jpg "IMG_0125")]({{ site.url }}{{ site.baseurl }}/images/2010/05/IMG_0125.jpg)
 
 Arrivée le mercredi matin des grandes fenêtres du mur sud= quatre chassis de plus de deux mètres de haut et de 2,40 m à 3,60 m.
 
-[![](/images/2010/05/IMG_0134-300x224.jpg "IMG_0134")](/images/2010/05/IMG_0134.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/05/IMG_0134-300x224.jpg "IMG_0134")]({{ site.url }}{{ site.baseurl }}/images/2010/05/IMG_0134.jpg)
 
 La mise en place demandera la journée, avec la pose des vitres dont les plus grandes, les parties fixes des fenêtres du rez de chaussée, mesurent deux mètres sur deux et pèsent 180 kg.
 
-[![](/images/2010/05/IMG_0175-300x224.jpg "IMG_0175")](/images/2010/05/IMG_0175.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/05/IMG_0175-300x224.jpg "IMG_0175")]({{ site.url }}{{ site.baseurl }}/images/2010/05/IMG_0175.jpg)
 
 Même à quatre personnes, c’est une longue journée. Pourtant je quitte Cerfontaine le soir même avec l’équipe, la clé dans la poche. Notre maison est fermée, ce n’est plus un hangar a courants d’air !
 
-[![](/images/2010/05/revlmont100513-300x168.jpg "revlmont100513")](/images/2010/05/revlmont100513.jpg)Bon, là j'ai pas beaucoup pris de temps pour expliquer en long et en large comment le travail a été fait, mais je vais m'y mettre.
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/05/revlmont100513-300x168.jpg "revlmont100513")]({{ site.url }}{{ site.baseurl }}/images/2010/05/revlmont100513.jpg)Bon, là j'ai pas beaucoup pris de temps pour expliquer en long et en large comment le travail a été fait, mais je vais m'y mettre.
 
 et puis l'impression que ça donne, ces chassis passifs. extra!
 

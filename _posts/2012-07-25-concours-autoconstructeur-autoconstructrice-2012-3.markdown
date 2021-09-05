@@ -37,6 +37,6 @@ L’ossature bois me tentait, mais il fallait prévoir un chantier d’une dizai
 
 Finalement j’ai opté pour le béton cellulaire. Une certaine énergie grise, mais quand même beaucoup moins que la brique ou le béton de ciment, et l’avantage d’un produit qui peut être manipulé seul, meme pour les blocs les plus denses.
 
-[![](/images/2012/07/IMG_0458-224x300.jpg "IMG_0458")](/images/2012/07/IMG_0458.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/IMG_0458-224x300.jpg "IMG_0458")]({{ site.url }}{{ site.baseurl }}/images/2012/07/IMG_0458.jpg)
 
-[![](/images/2012/07/Montagepérinsul-300x200.jpg "Montagepérinsul")](/images/2012/07/Montagepérinsul.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/Montagepérinsul-300x200.jpg "Montagepérinsul")]({{ site.url }}{{ site.baseurl }}/images/2012/07/Montagepérinsul.jpg)

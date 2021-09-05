@@ -27,4 +27,4 @@ Depuis l’hiver, un autre changement : le lagunage a commencé à fonctionner.
 
 Et puis il y a eu la non-pendaison de crémaillère (ou voulez-vous la pendre dans une maison passive ?) qui a réuni à Revleumont une petite partie de tous ceux qui ont suivi cette construction, pour l’inaugurer. Si vous n’en étiez pas, voici quelques photos pour y participer quand même.
 
-[](/images/2010/01/DSC_0273a.jpg)![130713_1561](/images/2013/08/130713_1561-300x198.jpg) [![130713_3538](/images/2013/08/130713_3538-300x198.jpg)](/images/2013/08/130713_3538.jpg)
+[]({{ site.url }}{{ site.baseurl }}/images/2010/01/DSC_0273a.jpg)![130713_1561]({{ site.url }}{{ site.baseurl }}/images/2013/08/130713_1561-300x198.jpg) [![130713_3538]({{ site.url }}{{ site.baseurl }}/images/2013/08/130713_3538-300x198.jpg)]({{ site.url }}{{ site.baseurl }}/images/2013/08/130713_3538.jpg)

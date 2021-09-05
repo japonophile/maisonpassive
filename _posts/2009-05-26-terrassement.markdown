@@ -15,7 +15,7 @@ Le terrain est en pente d’environ 1 m pour 5 mètres, de façon assez réguli�
 
 Terrasser, on peut faire ça à la pelle et à la brouette, mais un engin d’une certaine puissance permet d’accélérer les choses. Je fais donc appel à un terrassier équipé d’une pelle mécanique que voici :
 
-![img_0134](/images/2009/05/img_0134-300x224.jpg "img_0134")
+![img_0134]({{ site.url }}{{ site.baseurl }}/images/2009/05/img_0134-300x224.jpg "img_0134")
 
 Rendez-vous pris le dimanche matin - mon terrassier pose ses jours de congé hebdomadaire autrement que la majorité d’entre nous – l’engin est déposé sur le terrain la veille au soir à la tombée du jour.
 
@@ -29,4 +29,4 @@ Cette couche est assez mince là où nous allons construire : 20 à 40 cm, puis
 
 Finalement, c’est une quasi esplanade qui prend place là où sera construite la maison : 11 m sur 8, profondeur de 3 m à 0.
 
-![img_0159](/images/2009/05/img_0159-300x224.jpg "img_0159")
+![img_0159]({{ site.url }}{{ site.baseurl }}/images/2009/05/img_0159-300x224.jpg "img_0159")

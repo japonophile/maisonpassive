@@ -13,6 +13,6 @@ voici les images trouvées sur /www.polygonpipe.fr/
 
  
 
-[![](/images/2011/04/2-1b-300x103.jpg "2-1b")](/images/2011/04/2-1b.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/04/2-1b-300x103.jpg "2-1b")]({{ site.url }}{{ site.baseurl }}/images/2011/04/2-1b.jpg)
 
-[](/images/2011/04/2-1b.jpg)[![](/images/2011/04/18474a80222c58808.jpg "18474a80222c58808")](/images/2011/04/18474a80222c58808.jpg)[![](/images/2011/04/1445-1642-large.jpg "1445-1642-large")](/images/2011/04/1445-1642-large.jpg)en fait on n'y voit pas le motif de mes ennuis: la pièce qui porte les joints, et qui, enfoncée dans l'extrémité du tuyau, va se solidariser avec le coude en laiton... aujourd'hui je m'en mords les doigts;  j'ai peut etre gagné un w-e il y a quelques mois, et j'en perds deux maintenant. bonne leçon? peut etre! je n'ai qu'à attendre lundi pour recevoir les bonnes pièces, les monter et refaire au platre l'étanchéité de ce bout  de paroi...
+[]({{ site.url }}{{ site.baseurl }}/images/2011/04/2-1b.jpg)[![]({{ site.url }}{{ site.baseurl }}/images/2011/04/18474a80222c58808.jpg "18474a80222c58808")]({{ site.url }}{{ site.baseurl }}/images/2011/04/18474a80222c58808.jpg)[![]({{ site.url }}{{ site.baseurl }}/images/2011/04/1445-1642-large.jpg "1445-1642-large")]({{ site.url }}{{ site.baseurl }}/images/2011/04/1445-1642-large.jpg)en fait on n'y voit pas le motif de mes ennuis: la pièce qui porte les joints, et qui, enfoncée dans l'extrémité du tuyau, va se solidariser avec le coude en laiton... aujourd'hui je m'en mords les doigts;  j'ai peut etre gagné un w-e il y a quelques mois, et j'en perds deux maintenant. bonne leçon? peut etre! je n'ai qu'à attendre lundi pour recevoir les bonnes pièces, les monter et refaire au platre l'étanchéité de ce bout  de paroi...

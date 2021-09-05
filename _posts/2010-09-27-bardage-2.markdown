@@ -11,7 +11,7 @@ Finalement, le bardage est commandé
 
 Il s’agit de lames de [Mélèze de montagne originaire de Savoie, abouté, autoclave, brossé et traité à l’huile gis 102](http://www.sivalbp.com/upload/fiches/Lame-meleze%20de%20montagne-HN%20gris%20102-seche-aboute-brosse-FP9342FR.pdf),
 
-[](/images/2010/09/IMG_6204.jpg)![](/images/2010/09/meleze-infineo-150x114.jpg "meleze infineo")
+[]({{ site.url }}{{ site.baseurl }}/images/2010/09/IMG_6204.jpg)![]({{ site.url }}{{ site.baseurl }}/images/2010/09/meleze-infineo-150x114.jpg "meleze infineo")
 
 les lames mesurent, 24 x 170 mm, et sont livrables en 4,50 m de long, rainurées sur quatre cotés (donc sans raccord)
 
@@ -21,11 +21,11 @@ Ce qui m’a convaincu, c’est avant tout ce que je ne voulais pas.
 
 Dans mes recherches j’ai fait le tour de ce que je pouvais voir dans la région. Le centre de Virelles est réalisé depuis 7 ans en red cedar.
 
-[](/images/2010/09/meleze-infineo.jpg)[![](/images/2010/09/revlmont1009101-150x150.jpg "revlmont1009101")](/images/2010/09/revlmont1009101.jpg)
+[]({{ site.url }}{{ site.baseurl }}/images/2010/09/meleze-infineo.jpg)[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/revlmont1009101-150x150.jpg "revlmont1009101")]({{ site.url }}{{ site.baseurl }}/images/2010/09/revlmont1009101.jpg)
 
 Par contre j’ai vu une réalisation qui m’a séduit
 
-![](/images/2010/09/IMG_6204-150x150.jpg "IMG_6204")
+![]({{ site.url }}{{ site.baseurl }}/images/2010/09/IMG_6204-150x150.jpg "IMG_6204")
 
 Je suis donc allé frapper à la porte et j’ai ainsi pu entrer en contact avec [le fournisseur de ce voisin](http://www.sivalbp.com/fr/index.html).
 

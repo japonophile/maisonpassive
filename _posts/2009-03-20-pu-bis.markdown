@@ -13,9 +13,9 @@ Je suis donc très heureux de vous parler de nouveau de mon permis d’urbanisme
 
 Si j’aborde ce sujet, aujourd’hui, c’est que je suis allé lundi dernier le 16 mars 2009 au matin à la maison communale de Cerfontaine, sur convocation du service de l’urbanisme, retirer le permis que le conseil communal a approuvé lors e sa séance du 9 de ce mois.
 
-![img321](/images/2009/03/img321-200x300.jpg "img321")
+![img321]({{ site.url }}{{ site.baseurl }}/images/2009/03/img321-200x300.jpg "img321")
 
-![img322](/images/2009/03/img322-199x300.jpg "img322")
+![img322]({{ site.url }}{{ site.baseurl }}/images/2009/03/img322-199x300.jpg "img322")
 
 Le petit carré bleu au milieu de la deuxième page, c'st le timbre taxe communal. nous sommes à Cerfontaine, entité de la province de Namur comptant 4413 habitants Sur 8610 Hectares.
 

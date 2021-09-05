@@ -17,13 +17,13 @@ Les déperditions  sont aussi de deux sortes : Déperditions conductives et  
 
 C'est-à-dire ?
 
-On entend par déperditions conductives le total des kw qui s’échappent de la maison à travers les parois. On fait la somme pour chaque paroi en fonction de sa surface et de sa valeur U (ce que je n’arrivais pas à déterminer il y a quelques jours, [k-K-R-U-Kw]({% post_url 2009-12-27-k-k-r-u-kw %} "Lien permanent vers k-K-R-U-Kw")).
+On entend par déperditions conductives le total des kw qui s’échappent de la maison à travers les parois. On fait la somme pour chaque paroi en fonction de sa surface et de sa valeur U (ce que je n’arrivais pas à déterminer il y a quelques jours, [k-K-R-U-Kw]({% link _posts/2009-12-27-k-k-r-u-kw.markdown %} "Lien permanent vers k-K-R-U-Kw")).
 
 On ramène le tout au m² de surface de référence énergétique et on y ajoute les déperditions provoquées lors du  renouvellement de l’air par le système de ventilation (déperditions  aéroliques).
 
 Il est évident que les déperditions aéroliques vont être assez fortement influencées par la quantité d’air renouvelé  périodiquement. C’est pour cela que la maison passive doit répondre à l’exigence d’un renouvellement d’air qui ne peut pas être supérieur à 0,6 volume/heure.
 
-[![C'est ceci qui fait la maison passive](/images/2010/01/La-Maison-Passive-1-300x274.jpg "La-Maison-Passive-1")](/images/2009/12/La-Maison-Passive-1.jpg)
+[![C'est ceci qui fait la maison passive]({{ site.url }}{{ site.baseurl }}/images/2010/01/La-Maison-Passive-1-300x274.jpg "La-Maison-Passive-1")]({{ site.url }}{{ site.baseurl }}/images/2009/12/La-Maison-Passive-1.jpg)
 
 C'est ceci qui fait la maison passive
 

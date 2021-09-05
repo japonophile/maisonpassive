@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-J’en reviens à ma réflexion sur le [concept]({% post_url 2009-01-15-concept %} "Lien permanent vers concept") que j’avais interrompue pour vaquer à des opérations plus urgentes.
+J’en reviens à ma réflexion sur le [concept]({% link _posts/2009-01-15-concept.markdown %} "Lien permanent vers concept") que j’avais interrompue pour vaquer à des opérations plus urgentes.
 
 En effet; cette question est résolue, même si la certification passive reste en suspens. Nous en reparlerons.
 
@@ -21,7 +21,7 @@ Si je chauffe un batiment construit suivant les normes habituelles, je chauffe b
 
 Donc, en traditionnel, plus chauffe, plus je refroidis !?! 
 
-![fuites_energies1](/images/2009/03/fuites_energies1.jpg "fuites_energies1")
+![fuites_energies1]({{ site.url }}{{ site.baseurl }}/images/2009/03/fuites_energies1.jpg "fuites_energies1")
 
 Tandis que si je me débrouille pour garder à l’intérieur toutes les bonnes calories que je destine à mon confort personnel, qui n’a rien à voir avec celui des écureuils, des biches ou des sangliers, mon impact sur l’environnement se réduit, et mon portefeuille se réjouit.
 

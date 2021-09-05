@@ -61,4 +61,4 @@ Elle me conduit à me dépasser quand il faut exercer des compétences que je ne
 
 Elle m’apprend enfin et surtout à me sentir a l’aise dans la vraie vie, pas le rêve fantasmé de la « villa mon rêve » qui a hanté mes désirs profonds de longs mois – années – avant que ne s’ouvre le chantier,  mais bien la maison que j’ai fini par réaliser, avec ses défauts et ses qualités, qui peuvent d’ailleurs être reconnues : _Dans ton cas, ça m'a tout l'air d'être splendide!_ me dit Pauline. Juste de quoi faire péter le dernier bouton de col qui me reste !
 
-[![](/images/2011/06/mon_reve-300x300.jpg "mon_reve")](/images/2011/06/mon_reve.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/06/mon_reve-300x300.jpg "mon_reve")]({{ site.url }}{{ site.baseurl }}/images/2011/06/mon_reve.jpg)

@@ -23,7 +23,7 @@ Fournir la main d’œuvre n’est pourtant pas aussi simple que ça pourrait le
 
 C’est une des clés de la réussite d’une construction autonome : déterminer quelles tâches je vais me réserver, et comment les accomplir, en acceptant que ce qui me dépasse, soit par la technicité, soit par les moyens à mettre en œuvre, doit être réalisé en faisant appel à l’extérieur. Si je me lance dans un travail qui va durer des années et dans lequel je vais laisser ma santé, je cours à l’échec. J’ai donc du apprendre au pied du mur, là où l’on voit le maçon, comment on fabrique une maison. Ou plutôt comment j’allais fabriquer **ma** maison.
 
-[![](/images/2012/07/img017-300x206.jpg "img017")](/images/2012/07/img017.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/img017-300x206.jpg "img017")]({{ site.url }}{{ site.baseurl }}/images/2012/07/img017.jpg)
 
 Parce qu’ne construction n’est pas l’autre, et même si certaines règles de base, certains tours de main ne peuvent pas être remis en question, il y a de la marge pour l’ingéniosité, pour l’expérimentation, pour la réflexion au pourquoi et au comment des choses. C’est d’ailleurs une déduction que j’ai tiré de mon expérience. Si la construction passive a du mal a démarrer, et reste en général impayable, c’est avant tout parce qu’il s’agit de nouvelles méthodes, d’un enchainement de travaux et de phases qui rompt avec les habitudes, presque un nouveau métier.
 
@@ -31,6 +31,6 @@ Sans parler réellement chiffres, je ne vais pas étaler mes comptes ici en dét
 
 Au pourquoi, j’ajouterai encore la dimension humaine : construire seul sa maison est un défi, une épreuve initiatique, un chemin d’évolution personnelle, de transformation intérieure. Même si ce n’est pas une motivation au départ, c’est un effet à la fin du chantier. Je suis d’ailleurs persuadé que les échecs en autoconstruction sont souvent plus celui de l’homme que celui de la maison.
 
-![](/images/2012/07/saint-jacques-compostelle-293657.jpg)
+![]({{ site.url }}{{ site.baseurl }}/images/2012/07/saint-jacques-compostelle-293657.jpg)
 
 A suivre .../...

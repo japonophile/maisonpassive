@@ -25,15 +25,15 @@ Le plus logique à mon sens est d’intégrer l’évacuation des vapeurs de cui
 
 Une autre solution est de considérer que la cuisson des aliments n’occupe qu’une tranche réduite de la journée et qu’il est tout a fait tolérable de déséquilibrer la ventilation pendant quelques dizaines de minutes, pour évacuer directement cet air chargé de vapeurs, d’odeurs et de graisses. Le problème à ce moment est de connecter une hotte traditionnelle sur une évacuation contrôlée qui peut se fermer de façon suffisante pour ne pas handicaper le système à double flux en dehors des temps d’utilisation.
 
-![](/images/2011/03/schema-extraction-300x226.jpg "schema-extraction")
+![]({{ site.url }}{{ site.baseurl }}/images/2011/03/schema-extraction-300x226.jpg "schema-extraction")
 
 J’ai reçu la proposition d’un système :
 
-[![](/images/2011/03/compair-237x300.jpg "compair")](http://www.naber.de/index.php?id=224&L=3)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/03/compair-237x300.jpg "compair")](http://www.naber.de/index.php?id=224&L=3)
 
 Une troisième solution, je l’aborde parce qu’elle est celle qui est le plus communément recommandée, mais à laquelle je ne crois pas vraiment, c’est la hotte à recyclage avec filtration a charbon actif.
 
-[![](/images/2011/03/schema-recyclage-300x226.jpg "schema-recyclage")](http://www.inspirationcuisine.com/dossiers/evacuation-ou-recyclage-comment-bien-choisir-sa-hotte/)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/03/schema-recyclage-300x226.jpg "schema-recyclage")](http://www.inspirationcuisine.com/dossiers/evacuation-ou-recyclage-comment-bien-choisir-sa-hotte/)
 
 Outre la contrainte d’utiliser des filtres particulièrement sophistiqués et -probablement- couteux, je crains de devoir reprocher à ce système une efficacité assez faible au niveau de l’évacuation, tant des graisses que des odeurs et de la vapeur d’eau.
 
@@ -51,6 +51,6 @@ Oui, mais elle ne fonctionne pas en permanence. La mienne sera branchée 24h/24,
 
 Une hotte sans moteur a l’inconvénient de laisser les vapeurs se dégager tout à l’entour de la zone de cuisson. C’est pour cela que j’ai été séduit par le système que j’ai choisi : un moteur génère autour de la zone de cuisson un rideau d’air qui emprisonne les vapeurs, contraint les graissés à passer dans le filtre métallique et les odeurs à suivre la vapeur d’eau jusqu’à l’échangeur de chaleur. Si j’entretiens mon filtre à graisses de manière correcte (lave vaisselle aussi souvent que nécessaire), mon échangeur de chaleur ne subira pas les assauts des graisses, par contre il va récupérer la chaleur produite par la cuisson des aliments, appoint non négligeable.
 
-[![](/images/2011/03/aerolock11-300x193.jpg "aerolock1")](/images/2011/03/aerolock11.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/03/aerolock11-300x193.jpg "aerolock1")]({{ site.url }}{{ site.baseurl }}/images/2011/03/aerolock11.jpg)
 
 Ce système aerolock de Novy semble être secret et abandonné. (pas de lien sur ce produit) Je n’ai pas eu le fin mot de l’histoire, mais je crois qu’il s’agit essentiellement d’un problème commercial : le marché pour ce type de produit doit être fort étroit : il faut une VMC df, donc une maison passive, et il faut comme moi choisir cette troisième voie de renouvèlement de l’air de la cuisine, ce qui n’est pas très courant semble-t-il.

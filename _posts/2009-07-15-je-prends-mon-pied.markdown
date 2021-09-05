@@ -23,7 +23,7 @@ Pour obtenir cette planéité aussi juste que possible, de la patience, du soin,
 
  Biern évidemment, il faut en permanence repérer la position des dalles alignées sur les cordeaux que j'ai tendu antour de blocs dressés: il ont justement la bonne dimension, 30 cm, et ils maintiennent un écartement standard en ligne droite: parfaits comme repères.
 
-![montageperinsul](/images/2009/07/montageperinsul-300x200.jpg "montageperinsul")
+![montageperinsul]({{ site.url }}{{ site.baseurl }}/images/2009/07/montageperinsul-300x200.jpg "montageperinsul")
 
 Finalement, je termine le tour (34 m) du pied du mur avec 6 angles droits, une épaisseur de mortier variant entre 1 et 4 cm, en rejoignant les deux dalles, la première et la dernière, avec un écart inférieur à 2 mm.
 

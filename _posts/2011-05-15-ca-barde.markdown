@@ -21,4 +21,4 @@ J’avais un peu peur que la longueur du mur, juste 50 cm de plus que les planch
 
 Passé le premier mètre qui permet de travailler à hauteur d’homme, il faudra de nouveau avoir recours à l’échafaudage pour accéder au dessus du mur. Mais sans stress pour ce mur nord qui ne monte pas encore très haut.
 
-[![](/images/2011/05/127-110515-bardage-300x300.jpg "127-110515-bardage")](/images/2011/05/127-110515-bardage.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/05/127-110515-bardage-300x300.jpg "127-110515-bardage")]({{ site.url }}{{ site.baseurl }}/images/2011/05/127-110515-bardage.jpg)

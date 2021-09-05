@@ -13,15 +13,15 @@ Le 19 et le 20 juin, il a fallu faire du feu dans la caravane, 14 degrés au mil
 
 J’ai donc utilisé mon temps comme je le pouvais, en continuant à monter les caissons pour l’isolation extérieure. Le mur est recouvert sur une bonne moitié en dessous de la fenêtre du rez de chaussé (la plus haute), mais je n’ai pas réussi avec l’échafaudage dont je dispose à passer au dessus
 
-[![](/images/2010/06/IMG_0288-300x224.jpg "IMG_0288")](/images/2010/06/IMG_0288.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_0288-300x224.jpg "IMG_0288")]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_0288.jpg)
 
 J’ai alors attaqué le mur ouest, et là c’est plus facile : le remblai déposé à la fin de l’hivers m’a permis de monter plus haut. Il manque une poutre pour terminer le coin avec le mur sud.
 
-[![](/images/2010/06/IMG_03101-300x224.jpg "IMG_0310")](/images/2010/06/IMG_03101.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_03101-300x224.jpg "IMG_0310")]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_03101.jpg)
 
 Mardi 22, rendez-vous avec l’équipe d’isoproject
 
-[![](/images/2010/06/isoprojectq-300x155.jpg "isoprojectq")](/images/2010/06/isoprojectq.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/isoprojectq-300x155.jpg "isoprojectq")]({{ site.url }}{{ site.baseurl }}/images/2010/06/isoprojectq.jpg)
 
 13, rue Léon Terwagne 6221 - Saint-Amand **0497 896 385**
 
@@ -31,15 +31,15 @@ Mardi 22, rendez-vous avec l’équipe d’isoproject
 
 Première étape : protection des portes et fenêtres
 
-[![](/images/2010/06/IMG_0300-300x224.jpg "IMG_0300")](/images/2010/06/IMG_0300.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_0300-300x224.jpg "IMG_0300")]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_0300.jpg)
 
 Deuxième étape : mettre la machine en route. Elle doit chauffer avant d’etre opérationnelle.
 
-[![](/images/2010/06/IMG_0303-300x224.jpg "IMG_0303")](/images/2010/06/IMG_0303.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_0303-300x224.jpg "IMG_0303")]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_0303.jpg)
 
 Troisième étape : projection
 
-[![](/images/2010/06/IMG_0297-300x224.jpg "IMG_0297")](/images/2010/06/IMG_0297.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_0297-300x224.jpg "IMG_0297")]({{ site.url }}{{ site.baseurl }}/images/2010/06/IMG_0297.jpg)
 
 Et demain on recommence
 

@@ -11,15 +11,15 @@ Quelques nouvelles en vrac : tout avance assez rapidement maintenant et de tous
 
 Tout d’abord, voici les carottes dont je parlais la semaine passée :
 
-[![](/images/2011/04/SAM_1015-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1015.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1015-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1015.jpg)
 
 La seconde (ou première suivant le sens dans le quel on le prend) volée de l’escalier est définitivement coulée en béton. 5 marches avant le palier qui couvre la « cave » où j’ai installé le compresseur pour l’eau de pluie tirée de mes citernes.
 
-[![](/images/2011/04/SAM_1018-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1018.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1018-225x300.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1018.jpg)
 
 M’inspirant du « plancher collaborant », j’ai utilisé comme coffrage une plaque de tole qui me restait de la toiture, et je la laisse sur place. Pas la peine de décoffrer dans un espace qui finalement ne sert qu’à alléger l’ouvrage.
 
-[![](/images/2011/04/SAM_1022-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1022.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1022-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1022.jpg)
 
 Il nous aura quand même fallu huit brouettes de béton pour remplir ces 5 marches, en tenant compte d’une paillasse de 12 cm et des ancrages dans les deux murs latéraux. Ces marches ne reposent finalement que sur ces ancrages, puisque la chape qui est dessous, reposant sur la couche d’isolation en PUR, ne peut en réalité rien porter. aussi j'ai doublé le ferraillage, par mesure de prudence
 
@@ -27,7 +27,7 @@ Même format de marche (27 cm de marche, 17 cm de contre marche) même foulée, 
 
 À la suite de ce nouvel aménagement, j’attendais la livraison et l’installation de la nouvelle cuisine que nous avons commandée chez [eggo](http://www.eggo.be/kitchen-house-francais/index.php) ®. Livraison le 25, les monteurs étaient à pied d’oeuvre le 29. Équipe agréable, consciencieuse, inventive. Ils ont eu un peu de stress avec le plan de travail et j’ai hélas l’impression qu’ils n’ont pas réussi à placer correctement la contre porte du surgélateur.
 
-[![](/images/2011/04/SAM_1007-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1007.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1007-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1007.jpg)
 
 Tout est bien qui finit bien… quand c’est fini.
 

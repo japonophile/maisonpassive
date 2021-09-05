@@ -11,7 +11,7 @@ Pendant la semaine, alors que j’étais à Bruxelles pour mes activités hebdom
 
 L’électricien du domaine a convoqué le terrassier, et ila passé sous la route le cable qui alimente le nouveau compteur que j’ai placé la semaine dernière. Le raccordement est fait, 400 V + N, avec un peu de chance, j’aurais du 220 volts dans la maison, malgré les 150 mètres qui séparent le coffret compteur de l’armoire de distribution à l’intérieur.
 
-[![](/images/2011/02/SAM_0859-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0859.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0859-225x300.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0859.jpg)
 
 Juste que je dois encore tester mes 15 lignes et vérifier que tout est correctement connecté ? Sans faire sauter la baraque; c’est pour demain, maintenant il est tard, la journée est terminée.
 

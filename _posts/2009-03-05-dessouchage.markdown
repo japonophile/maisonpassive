@@ -13,17 +13,17 @@ Promesse de Gascon, disait ma grand mère en parlant de celles qu'on se soucie p
 
 Mais je suis de nouveau là, avec quelques changements à vous présenter  dans l'apparence du terrain: la semaine dernière a été occupée à dégager l'essentiel des souches qui encombraient le terrain après l'abattage du taillis. Voila donc le résultat
 
- ![img_0070](/images/2009/03/img_0070-224x300.jpg "img_0070") 
+ ![img_0070]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0070-224x300.jpg "img_0070") 
 
 et voilà l'outil qui a permis cette transformation:
 
- ![img_0021](/images/2009/03/img_0021-300x224.jpg "img_0021") 
+ ![img_0021]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0021-300x224.jpg "img_0021") 
 
 Heureusement que j'avais de l'aide: Yoann n'était pas peu fier de pouvoir la conduire, lui aussi!
 
 Et Rémi aussi d'ailleurs m'a donné un coup de main
 
-![img_0032](/images/2009/03/img_0032-224x300.jpg "img_0032")
+![img_0032]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0032-224x300.jpg "img_0032")
 
 Une semaine de travail, ça vaut bien ça. Il faut dire que sans avoir loué cette machine je n’aurais pas su choisir la bonne solution pour continuer les travaux de terrassement.
 

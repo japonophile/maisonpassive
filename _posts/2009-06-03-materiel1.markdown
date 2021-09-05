@@ -25,6 +25,6 @@ Qu’à cela ne tienne, mon vendeur me propose de me la conduire à Bruxelles. L
 
 Je ne saurait résister à cette aimable proposition, et ce midi, voilà le résultat :
 
- ![img_0230](/images/2009/06/img_0230-224x300.jpg "img_0230") 
+ ![img_0230]({{ site.url }}{{ site.baseurl }}/images/2009/06/img_0230-224x300.jpg "img_0230") 
 
 Ce n’est qu’une première étape sur la route de Cerfontaine, mais c’est aussi un bon pas dans la bonne direction.

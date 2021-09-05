@@ -11,11 +11,11 @@ Plafond fini... enfin presque
 
 J’ai posé aujourd’hui le dernier morceau de gyplat au plafond du rez de chaussée.
 
-[![](/images/2010/09/SAM_0010-150x150.jpg "SAM_0010")](/images/2010/09/SAM_0010.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/SAM_0010-150x150.jpg "SAM_0010")]({{ site.url }}{{ site.baseurl }}/images/2010/09/SAM_0010.jpg)
 
 Dernière vis
 
-[![](/images/2010/09/SAM_0022-150x150.jpg "SAM_0022")](/images/2010/09/SAM_0022.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/SAM_0022-150x150.jpg "SAM_0022")]({{ site.url }}{{ site.baseurl }}/images/2010/09/SAM_0022.jpg)
 
 Encore une étape franchie dans la poursuite de l’étanchéité à l’air.
 

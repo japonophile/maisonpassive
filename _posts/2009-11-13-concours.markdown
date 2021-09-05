@@ -25,7 +25,7 @@ N'oubliez pas de cliquer sur le bouton ad hoc en haut a gauche! plus il y a d'é
 
 Et vous pouvez aussi  "promouvoir " ma candidature auprès de tous vos amis et connauissances.
 
-![c'est ici que ça se passe](/images/2009/11/sans-titre1-300x241.jpg "votez pour moi!")
+![c'est ici que ça se passe]({{ site.url }}{{ site.baseurl }}/images/2009/11/sans-titre1-300x241.jpg "votez pour moi!")
 
 D'avance merci du coup de pouce!
 

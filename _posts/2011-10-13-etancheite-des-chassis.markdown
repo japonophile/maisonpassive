@@ -21,4 +21,4 @@ Encore un petit réglage des gonds de la porte d’entrée - bien que celle-là,
   
 Merci M. Vertommen !
 
-[![](/images/2011/10/005-300x217.jpg "Menuiserie Vertommen")](/images/2011/10/005.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/10/005-300x217.jpg "Menuiserie Vertommen")]({{ site.url }}{{ site.baseurl }}/images/2011/10/005.jpg)

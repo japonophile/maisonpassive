@@ -15,7 +15,7 @@ J’ai donc passé une journée avec André pour commencer à tout mettre en pla
 
 Dès l’aube nous commençons par les plans :
 
-_(non, c'est pas la bonne photo: j'ai laissé les plans à Cerfontaine, je corrigerai samedi prochain, ça obligera les curieux à revenir pour voir ;-)_ [![](/images/2010/10/distributeur-d-eau-glycolee-double-svt-200-117555.png "distributeur-d-eau-glycolee-double-svt-200-117555")](/images/2010/10/distributeur-d-eau-glycolee-double-svt-200-117555.png)
+_(non, c'est pas la bonne photo: j'ai laissé les plans à Cerfontaine, je corrigerai samedi prochain, ça obligera les curieux à revenir pour voir ;-)_ [![]({{ site.url }}{{ site.baseurl }}/images/2010/10/distributeur-d-eau-glycolee-double-svt-200-117555.png "distributeur-d-eau-glycolee-double-svt-200-117555")]({{ site.url }}{{ site.baseurl }}/images/2010/10/distributeur-d-eau-glycolee-double-svt-200-117555.png)
 
 Le réseau comprend trois circuits bien distincts : l’eau potable, l’eau chaude et l’eau de pluie.
 
@@ -29,13 +29,13 @@ Chaque réseau est commandé part une « clarinette » et chaque conduite est 
 
 C’est l’occasion pour moi de prendre contact avec l’alpex. J’ai déjà travaillé le cuivre, l’acier, le galvanisé. Je me suis initié au socarex. Mais je n’avais pas encore eu d’alpex entre les mains.
 
-[![](/images/2010/10/SAM_0086-300x225.jpg "SAM_0086")](/images/2010/10/SAM_0086.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0086-300x225.jpg "SAM_0086")]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0086.jpg)
 
 Mis à part le cout des raccords c’est quand même enfantin, si j’ose dire. Eau froide, eau chaude… les couleurs standard pourraient bien aider, mais il manque quelque chose pour signaler l’eau de pluie ( ? un appel aux fabricants ?)
 
 Nous prenons pour convention  : eau de pluie bleue, eau potable rouge, eau chaude dans son emballage isolant rouge.
 
-[![](/images/2010/10/SAM_0087-225x300.jpg "SAM_0087")](/images/2010/10/SAM_0087.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0087-225x300.jpg "SAM_0087")]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0087.jpg)
 
 En quelques heures, tout est en place. Enfin quasi : il me reste à faire les saignées pour le, circuit de la douche, et il faudra attendre la chape pour poser le groupe hydrophore qui puisera dans les citernes.
 
@@ -43,4 +43,4 @@ Le Rotex attendra lui aussi que la chape arrive, je ne peux quand même pas le p
 
 Et la journée n’était pas finie, puisque nous avons aussi fait les plans pour la pose des capteurs solaires, qui interviendra en même temps que le branchement du Rotex. Bravo André.
 
-[![](/images/2010/10/focaloreco-300x91.jpg "focaloreco")](/images/2010/10/focaloreco.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/focaloreco-300x91.jpg "focaloreco")]({{ site.url }}{{ site.baseurl }}/images/2010/10/focaloreco.jpg)

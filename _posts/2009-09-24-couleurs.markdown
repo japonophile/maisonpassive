@@ -11,7 +11,7 @@ Une semaine d’attente plus une semaine de vacances plus une semaine de travail
 
 Voila l’aspect actuel (provisoire !) de la construction :
 
- ![la doudoune de XPS](/images/2009/09/img_0681-300x224.jpg "la doudoune de XPS")
+ ![la doudoune de XPS]({{ site.url }}{{ site.baseurl }}/images/2009/09/img_0681-300x224.jpg "la doudoune de XPS")
 
 Elle est donc passée du blanc au noir puis au rose saumon en mettant sa doudoune de XPS.
 

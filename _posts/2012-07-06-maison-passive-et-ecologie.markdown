@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-Je vibre d’émotion à l’idée que le projet « construction autonome d’une maison passive » tente tant de personnes de par le monde. J [{% post_url 2012-06-30-interet-general %}]({% post_url 2012-06-30-interet-general %})
+Je vibre d’émotion à l’idée que le projet « construction autonome d’une maison passive » tente tant de personnes de par le monde. J [{% link _posts/2012-06-30-interet-general.markdown %}]({% link _posts/2012-06-30-interet-general.markdown %})
 
 A croire que finalement, le concept prend son envol, de plus en plus de constructeurs se rendent compte de l’impact des économies à faire dans le domaine de l’ECS et de la température ambiante à intérieur des habitations.
 
@@ -33,4 +33,4 @@ Je connais encore beaucoup de contre exemples qui montrent que ‘l’excès en 
 
  
 
-ps:je ne résiste pas à l'envie de poster une nouvelle photo de mon "home".[![](/images/2012/07/P7040448-300x225.jpg "OLYMPUS DIGITAL CAMERA")](/images/2012/07/P7040448.jpg)
+ps:je ne résiste pas à l'envie de poster une nouvelle photo de mon "home".[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/P7040448-300x225.jpg "OLYMPUS DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/07/P7040448.jpg)

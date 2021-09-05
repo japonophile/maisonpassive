@@ -9,7 +9,7 @@ status: publish
 
 Non, je ne me lance pas dans la critique des personnes qui ont tendance à phosphorer. Je serais le premier à me descendre en flammes.
 
-[![](/images/2010/07/intello-120x120.jpg "intello-120x120")](/images/2010/07/intello-120x120.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/07/intello-120x120.jpg "intello-120x120")]({{ site.url }}{{ site.baseurl }}/images/2010/07/intello-120x120.jpg)
 
 [INTELLO](http://www.proclima.com/co/FRN/fr/intello_prod_fr.html) Freine-vapeur haute performance hygrovariable Etanche en hiver – ouvert en été.
 
@@ -23,14 +23,14 @@ En effet, outre ses capacités à réguler la vapeur d’eau, ce produit étant 
 
 Facile, c’est selon :
 
-[![](/images/2010/07/IMG_0020A-300x203.jpg "IMG_0020A")](/images/2010/07/IMG_0020A.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/07/IMG_0020A-300x203.jpg "IMG_0020A")]({{ site.url }}{{ site.baseurl }}/images/2010/07/IMG_0020A.jpg)
 
 mais il est vrai qu’il est résistant et permet la pose en continu pour assurer le maintient de l’isolation de la toiture, pour autant qu’il soit soutenu par un contrelattage
 
-[![](/images/2010/07/IMG_0029A-300x194.jpg "IMG_0029A")](/images/2010/07/IMG_0029A.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/07/IMG_0029A-300x194.jpg "IMG_0029A")]({{ site.url }}{{ site.baseurl }}/images/2010/07/IMG_0029A.jpg)
 
 Pendant ce temps, j’ai fait une autre découverte
 
-[![](/images/2010/07/ferarepasser-270x300.jpg "ferarepasser")](/images/2010/07/ferarepasser.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/07/ferarepasser-270x300.jpg "ferarepasser")]({{ site.url }}{{ site.baseurl }}/images/2010/07/ferarepasser.jpg)
 
 ce fameux fer à repasser qui suffira à chauffer ma maison passive, il occupe la page 63 du numéro #03 de [be.passive](http://www.bepassive.be/viewer/03/fr), le trimestriel de la [plateforme maison passive](http://www.maisonpassive.be/)

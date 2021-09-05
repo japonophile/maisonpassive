@@ -31,9 +31,9 @@ Par contre le travail du bois, menuiseries, planchers et charpente, si je pouvai
 
 Finalement, on en arrive à augmenter de moitié le montant de base, ce qui me semble raisonnable, puisque les matériaux dans une construction comptent pour à peu de chose près 40 % du montant total facturé.
 
-En appliquant fidèlement la règle qui semblait évidente pour le [premier architecte consulté]({% post_url 2009-01-09-quel-architecte %}), et en prenant un prix moyen du m² correspondant plus précisément au type de construction que nous envisageons, l’esquisse qui nous sera présentée ressemble à ceci :
+En appliquant fidèlement la règle qui semblait évidente pour le [premier architecte consulté]({% link _posts/2009-01-09-quel-architecte.markdown %}), et en prenant un prix moyen du m² correspondant plus précisément au type de construction que nous envisageons, l’esquisse qui nous sera présentée ressemble à ceci :
 
-![première esquisse](/images/2009/01/img232-300x199.jpg "img232")
+![première esquisse]({{ site.url }}{{ site.baseurl }}/images/2009/01/img232-300x199.jpg "img232")
 
 120 m² sur deux niveaux, avec en plus  30 m² de terrasse plein sud.
 

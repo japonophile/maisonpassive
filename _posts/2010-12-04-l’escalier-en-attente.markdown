@@ -15,8 +15,8 @@ Pas question de béton, donc.
 
 Il me reste quand même de quoi m’occuper : je connecte mes fils dans les boites et dans le tableau. En espérant que je retrouverai tout ce qui a été prévu avant de planquer les cables dans les murs ou dans le sol.
 
-[CHOPPINDEEL1](/images/2010/12/CHOPPINDEEL1.pdf) [CHOPPINDEEL2](/images/2010/12/CHOPPINDEEL2.pdf)
+[CHOPPINDEEL1]({{ site.url }}{{ site.baseurl }}/images/2010/12/CHOPPINDEEL1.pdf) [CHOPPINDEEL2]({{ site.url }}{{ site.baseurl }}/images/2010/12/CHOPPINDEEL2.pdf)
 
-[CHOPPINPLAN1](/images/2010/12/CHOPPINPLAN1.pdf) [CHOPPINPLAN2](/images/2010/12/CHOPPINPLAN2.pdf)
+[CHOPPINPLAN1]({{ site.url }}{{ site.baseurl }}/images/2010/12/CHOPPINPLAN1.pdf) [CHOPPINPLAN2]({{ site.url }}{{ site.baseurl }}/images/2010/12/CHOPPINPLAN2.pdf)
 
-[![](/images/2010/12/SAM_0447-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/12/SAM_0447.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/12/SAM_0447-225x300.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/12/SAM_0447.jpg)

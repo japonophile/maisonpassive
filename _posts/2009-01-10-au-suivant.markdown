@@ -15,13 +15,13 @@ Puisque ni les pages d’or ni le bouche à oreille ne nous ont conduit à la pe
 
 de l'intérieur
 
-![vue sur la forêt](/images/2009/01/sf1-207x300.jpg "de l'intérieur")
+![vue sur la forêt]({{ site.url }}{{ site.baseurl }}/images/2009/01/sf1-207x300.jpg "de l'intérieur")
 
 blotti dans la forêt en haut d’une pente,
 
 et vue de l’extérieur
 
-![entrée et ouverture sur la forêt](/images/2009/01/sf4-226x300.jpg "de l'extérieur")
+![entrée et ouverture sur la forêt]({{ site.url }}{{ site.baseurl }}/images/2009/01/sf4-226x300.jpg "de l'extérieur")
 
 (pour en voir plus allez à  [habitation privée à Villers-la-ville](http://www.aabw.be/images/aabw/samediarch_060218.pdf "habitation privée à Villers-la-ville"))
 

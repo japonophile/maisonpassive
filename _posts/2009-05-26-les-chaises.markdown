@@ -19,10 +19,10 @@ Reste à placer les chaises correspondantes. C’est là que ça se corse. Il es
 
 Vous avez suivi ?
 
- ![img_0175](/images/2009/05/img_0175-300x224.jpg "img_0175") 
+ ![img_0175]({{ site.url }}{{ site.baseurl }}/images/2009/05/img_0175-300x224.jpg "img_0175") 
 
 Commence alors le repérage des autres chaises pour que toutes les lignes du bâtiment retrouvent leur place. Un niveau laser a double direction me permet de positionner rapidement les quatre coins, et les cordes sont posées dans la journée.
 
- ![img_0176](/images/2009/05/img_0176-300x224.jpg "img_0176") 
+ ![img_0176]({{ site.url }}{{ site.baseurl }}/images/2009/05/img_0176-300x224.jpg "img_0176") 
 
 On peut envisager l’étape suivante : la construction

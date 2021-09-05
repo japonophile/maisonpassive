@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-[![](/images/2012/11/jeparticipe-300x57.jpg "jeparticipe")](/images/2012/11/jeparticipe.jpg)La journée de visite des maisons passives organisée par la PMP a été un franc succès à Revleumont. J’ai un peu perdu le compte en cours d’après midi, mais il semble bien que le nombre de 50 visiteurs ait été largement dépassé.
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/11/jeparticipe-300x57.jpg "jeparticipe")]({{ site.url }}{{ site.baseurl }}/images/2012/11/jeparticipe.jpg)La journée de visite des maisons passives organisée par la PMP a été un franc succès à Revleumont. J’ai un peu perdu le compte en cours d’après midi, mais il semble bien que le nombre de 50 visiteurs ait été largement dépassé.
 
 Des motivations variables les ont amenés chez nous, mais pour beaucoup le fait que nous ayons construit notre maison en autoconstruction était le plus, soit qu’ils l’aient décidé pour eux-mêmes, soit qu’ils y pensent sans oser se lancer.
 

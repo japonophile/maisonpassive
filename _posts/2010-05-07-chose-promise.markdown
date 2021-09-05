@@ -27,6 +27,6 @@ la vie reprend
 
 .../...
 
-[![](/images/2010/05/IMG_0052-300x224.jpg "IMG_0052")](/images/2010/05/IMG_0052.jpg)rien a voir
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/05/IMG_0052-300x224.jpg "IMG_0052")]({{ site.url }}{{ site.baseurl }}/images/2010/05/IMG_0052.jpg)rien a voir
 
 juste parce que je trouve ca de plus en plus joli

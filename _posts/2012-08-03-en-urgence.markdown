@@ -9,7 +9,7 @@ status: publish
 
 une réponse à quelqu'un qui doit l'utiliser incessamment, parce que les plafonneurs vont arriver!
 
-[![](/images/2012/08/001-217x300.jpg "001")](/images/2012/08/001.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/08/001-217x300.jpg "001")]({{ site.url }}{{ site.baseurl }}/images/2012/08/001.jpg)
 
 ce schéma indique comment assurer l'étanchéité à l'air lorsque le volume protégé englobe plusieurs niveaux, séparés par un plancher plafond de hourdis. (meme situation si le plancher plafond est composé d'une autre matière, comme des poutres de bois....)
 

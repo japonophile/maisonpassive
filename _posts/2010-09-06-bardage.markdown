@@ -11,7 +11,7 @@ Bois ? Composite ? Fibrociment ?
 
 Et le métal, encore, et où ?
 
-**Fibrociment** ? De la marque Eternit (Xella ?) :[![](/images/2010/09/cedral-300x242.jpg "cedral")](/images/2010/09/cedral.jpg)
+**Fibrociment** ? De la marque Eternit (Xella ?) :[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/cedral-300x242.jpg "cedral")]({{ site.url }}{{ site.baseurl }}/images/2010/09/cedral.jpg)
 
 "Mélange homogène de ciment, de sable et de cellulose, le fibres-ciment assure à **Cédral** rigidité et planéité dans le temps ainsi qu’une excellente stabilité dimensionnelle. Il résiste à l’humidité et ne gonfle pas."
 
@@ -21,7 +21,7 @@ inconvénient: c'st bien du fibrociment, meme de loin, on s'en rend compte. ça 
 
 Les composés eco-Profil sont constitués de 60% de fibres de bois récupéré et 40% de polyéthylène ou polypropylène, d’inhibiteurs UV et de pigments et d’autres adjuvants.
 
-[![](/images/2010/09/achtergrond_outdoor-gevel-eco-170x300.jpg "achtergrond_outdoor-gevel-eco")](/images/2010/09/achtergrond_outdoor-gevel-eco.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/achtergrond_outdoor-gevel-eco-170x300.jpg "achtergrond_outdoor-gevel-eco")]({{ site.url }}{{ site.baseurl }}/images/2010/09/achtergrond_outdoor-gevel-eco.jpg)
 
 "eco-Profil est durable. Les fibres de bois étant enveloppées de matière plastique, elles donnent à la planche une résistance exceptionnelle. Le composé n’absorbe que très peu d’humidité, ce qui le rend insensible à la pourriture, au fendillement et aux échardes."
 
@@ -31,7 +31,7 @@ sympathique, meme si on sent encore l'artificiel.  Durable? les finitions me pa
 
 "Cette finition retarde le vieillissement naturel relatif à l’exposition. Elle permet ensuite un entretien facile ou une évolution logique de l’aspect, sans écaillage ou farinage du revêtement. Traitement insecticide, fongicide, hydrofuge et anti-termite classe 3 de nouvelle génération et respectueux de l’environnement. Elle anticipe la teinte du bois après exposition en version **"grisée"**."
 
-[![](/images/2010/09/image-2-300x300.jpg "image 2")](/images/2010/09/image-2.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/image-2-300x300.jpg "image 2")]({{ site.url }}{{ site.baseurl }}/images/2010/09/image-2.jpg)
 
 l'image trouvé est loin de rendre l'aspect  fibi du produit. et en plus, des lames de 24mm/170mm donc plus épaissens et plus larges que tous les autres produits. un bois brossé qui fait ressortir les veines, et qui viellit lentement. A voir à la longue, bien sur. Tout choix est un pari sur l'avenir, une question de confiance.
 

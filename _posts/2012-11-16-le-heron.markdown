@@ -9,7 +9,7 @@ status: publish
 
 Ce matin, là, j’avais un heron
 
-[![](/images/2012/11/SAM_2396-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2012/11/SAM_2396.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/11/SAM_2396-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/11/SAM_2396.jpg)
 
 Il n’est pas sur la photo, il ne m’a pas attendu, mais je suis super enthousiaste à l’idée que ma 4eme lagune pourrait être un abri à héron !
 
@@ -19,14 +19,14 @@ La troisième lagune, c’est le marais avec des plantes hygrophiles. Il a été
 
 Pour le moment il ne s’agit que d’eau de pluie, les effluents des eaux usées n’arriveront que quand j’aurai terminé les 1ère et deuxième lagunes.
 
-[![](/images/2012/11/SAM_2392-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2012/11/SAM_2392.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/11/SAM_2392-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/11/SAM_2392.jpg)
 
 La deuxième est raccordée des deux cotés, effluent dans le marais, alimentation par le déversoir de la première. Il s’agit d’une lagune d’eau libre qui à terme se couvrira d’algues et de lentilles d’eau, fermentation aérobie. Elle sera remplie quand la première fonctionnera, à moins que les pluies ne l’alimentent d’ici là.
 
-[![](/images/2012/11/SAM_2388-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2012/11/SAM_2388.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/11/SAM_2388-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/11/SAM_2388.jpg)
 
 La première, je suis en train de la remplir de cailloux. Ils accueilleront un massif de typhas qui doivent épurer les premiers effluents de la fosse septique.
 
-[![](/images/2012/11/SAM_2385-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2012/11/SAM_2385.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/11/SAM_2385-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/11/SAM_2385.jpg)
 
 Quand elle sera remplie et qu’il y aura un fond d’eau, je raccorderai la fosse septique et je planterai les typhas. La saison est assez mal choisie, mais si j’ai la chance de terminer avant la fin de l’année, il reste encore quelques belles journées de végétation pour permettre la reprise. La véritable filtration ne commencera qu’au printemps, comme dans tous les lagunages qui utilisent la phytoépuration.

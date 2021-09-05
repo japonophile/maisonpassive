@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-Je reçois à l’instant ce commentaire de [ **yann**](ymalhomme@yahoo.fr) Envoyé le [23/01/2013 à 12:25]({% post_url 2011-10-18-test-d’infiltrometrie %})
+Je reçois à l’instant ce commentaire de [ **yann**](ymalhomme@yahoo.fr) Envoyé le [23/01/2013 à 12:25]({% link _posts/2011-10-18-test-d’infiltrometrie.markdown %})
 
 _Bonjour, Je ne comprend pas pourquoi vous avez mis un poel dans une maison passive? Le principe de la MP étant justement de ne pas utiliser de moyens de production de chaleur mais de récupérer les calories extérieur et de l’activité humaine. Merci pour votre réponse Yann_
 

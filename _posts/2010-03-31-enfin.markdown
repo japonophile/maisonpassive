@@ -13,19 +13,19 @@ Il a plu ce week-end à Cerfontaine  comme ailleurs, par intermittence, avec de
 
 J’ai commencé par bâtir, rang par rang, les premiers au mortier de ciment, les suivants à la colle, avec des murfors tous les rangs, le morceau de mur sur lequel va prendre appui le remblai qui descend le long du coté ouest de la maison.
 
-[![](/images/2010/03/IMG_0111-300x224.jpg "IMG_0111")](/images/2010/03/IMG_0111.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/03/IMG_0111-300x224.jpg "IMG_0111")]({{ site.url }}{{ site.baseurl }}/images/2010/03/IMG_0111.jpg)
 
 J’ai intégré des corbeaux[\[1\]](#_ftn1) ou barbacanes[\[2\]](#_ftn2), selon qu’il vous plaira de les appeler, pour diminuer la pression des terres, qui même stabilisées, auraient surement une fâcheuse tendance à se répandre vers l’est, donc vers la future terrasse. Il ne reste plus qu’à goudronner et placer, comme je le pourrai, une membrane pour dévier l’écoulement d’eau (pour autant qu’il y en ait) vers le drain.
 
 Est-ce que ce mur tiendra ? J’ai reçu tous les avis et leurs contraires. Donc, jusqu’à plus ample informé, je vais parier pour le résistance de ma construction. Blocs de 30 cm en Ytong c5/700, armés de murfor tous les rangs, sur fondation armée rattachée à la dalle d’un coté, au premier plot de la terrasse de l’autre, avec deux à trois blocs « saillants » (du coté des terres) dans chaque rang.
 
-[![](/images/2010/03/IMG_0116-300x224.jpg "IMG_0116")](/images/2010/03/IMG_0116.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/03/IMG_0116-300x224.jpg "IMG_0116")]({{ site.url }}{{ site.baseurl }}/images/2010/03/IMG_0116.jpg)
 
 La seconde opération de ce week-end a été la construction des regards des égouttages : des rehausses empilées sur les ouvertures des cuves, dont le sommet affleurera le remblai qui va recouvrir la tranchée ouverte pour mettre le puits canadien, et au-dessus duquel vont trouver place les tuyaux, celui amenant l’eau de la distribution du domaine depuis le bas, et celui qui permettra de pomper l’eau de pluie dans les cuves, ainsi que le cable électrique (4 x 16 ²) qui viendra d’un seul tenant depuis le compteur a poser a front de l’avenue des hêtres, 150 m plus bas.
 
 Chaque conduite doit être protégée par un tube pour cable (TPC). Je sais, le rouge signifie cable électrique, mais où aller trouver du TPC vert à Couvin ? J’ai renoncé, je mettrai une note dans le plan de situation.
 
-[![](/images/2010/03/IMG_0130-300x224.jpg "IMG_0130")](/images/2010/03/IMG_0130.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/03/IMG_0130-300x224.jpg "IMG_0130")]({{ site.url }}{{ site.baseurl }}/images/2010/03/IMG_0130.jpg)
 
 Et voilà pour le moment. Ce n’est pas très spectaculaire, mais pourtant ça avance
 

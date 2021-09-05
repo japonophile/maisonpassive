@@ -17,18 +17,18 @@ Quelques mètres plus au sud, les deux cuves de récupération d’eau qui seron
 
 C’est parfois du grand art que de transporter ces cuves sur plusieurs dizaines de mètres de distance et plusieurs mètres de dénivellation.
 
-![transport de la cuve](/images/2009/10/img_0737-300x224.jpg "img_0737")
+![transport de la cuve]({{ site.url }}{{ site.baseurl }}/images/2009/10/img_0737-300x224.jpg "img_0737")
 
-![mise en place](/images/2009/10/img_0759-300x224.jpg "img_0759")
+![mise en place]({{ site.url }}{{ site.baseurl }}/images/2009/10/img_0759-300x224.jpg "img_0759")
 
 Avant de poser les cuves, il fallu déposer au fond de la tranchée entourant la maison, un drain entouré de cailloux et de géotextile :
 
-![img_0724](/images/2009/10/img_0724-300x224.jpg "img_0724")
+![img_0724]({{ site.url }}{{ site.baseurl }}/images/2009/10/img_0724-300x224.jpg "img_0724")
 
 Je doute que ce drain soit fort utile, la roche qui supporte la dalle est réellement perméable, il y a peu d’argile dans le sol, et en dehors des périodes de pluie, le terrain est remarquablement sec. Mais pendant les premiers mois après le remblaiement, il se pourrait que ce drain collecte un peu d’eau. On verra.
 
 Après la pose des cuves, Dany s’est attaqué à déplacer la montagne de terre qui trônait devant la maison, et de la transporter dans le trou au nord. Pour cela, il a changé d’engin. Le manitou est un auxiliaire bien précieux, qui déplace en un seul trajet depuis le bas vers le haut une immense benne de plusieurs mètres cubes…
 
-![le manitou (manie-tout?)](/images/2009/10/img_0765-300x224.jpg "img_0765")
+![le manitou (manie-tout?)]({{ site.url }}{{ site.baseurl }}/images/2009/10/img_0765-300x224.jpg "img_0765")
 
 La nuit tombait quand il a arrêté. Je n’ai donc pas encore de photo du terrain remis à niveau autour de la construction. Ce sera pour la semaine prochaine !

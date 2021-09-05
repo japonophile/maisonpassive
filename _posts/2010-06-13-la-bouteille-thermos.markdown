@@ -9,7 +9,7 @@ status: publish
 
 Au cours de la présentation radio que vous avez entendue [ici](http://www.vivacite.be/audio/player/index.htm?soundref=http://old.rtbf.be/media/radio/alademande/viva_info_2000/viva_info_2000.mp3&chaine=viva&info=Le%20journal%20g%20n%20ral%20du%2020H00) : le journal de 18h00 du mercredi 9/6/2010 sur Vivacité, il a été fait mention d’une comparaison classique : la maison passive serait comme un thermos.
 
-[![ www.fiabitat.com/bioclimatisme-en-theorie.php](/images/2010/06/pont-thermique-thermos.png "pont-thermique-thermos")](/images/2010/06/pont-thermique-thermos.gif)
+[![ www.fiabitat.com/bioclimatisme-en-theorie.php]({{ site.url }}{{ site.baseurl }}/images/2010/06/pont-thermique-thermos.png "pont-thermique-thermos")]({{ site.url }}{{ site.baseurl }}/images/2010/06/pont-thermique-thermos.gif)
 
 Comparaison classique, mais fausse, totalement.
 
@@ -17,7 +17,7 @@ Pourquoi donc fausse, puisque l’isolation thermique, et même l’étanchéit�
 
 He bien à cause de la VMCDF, bien sur.
 
-[![](/images/2010/06/schema-VMC-300x188.jpg "schema VMC")](/images/2010/06/schema-VMC.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/schema-VMC-300x188.jpg "schema VMC")]({{ site.url }}{{ site.baseurl }}/images/2010/06/schema-VMC.jpg)
 
 Contrairement à la bouteille thermos qui doit rester hermétiquement fermée pour conserver la chaleur, la maison passive est en liaison constante avec le milieu extérieur. Le renouvèlement d’air se poursuit en permanence, 24h/24, à raison de 10 à 20 fois le volume de l’habitation par jour.
 

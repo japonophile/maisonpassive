@@ -25,15 +25,15 @@ Un terrain à la campagne, un bâtiment extensible en cas de besoin, et pas trop
 
 Nos recherches ont duré plusieurs mois, d’espérance en déconvenues, et les conditions étant ce qu’elles sont, notre choix a fini par se porter sur une annonce que nous avions négligé au premier abord : immoweb mettait en valeur la magnifique caravane résidentielle,
 
-![la caravane résidentielle](/images/2009/01/img_0022-300x224.jpg "img_0022") 
+![la caravane résidentielle]({{ site.url }}{{ site.baseurl }}/images/2009/01/img_0022-300x224.jpg "img_0022") 
 
 alors que l’intérêt de l’offre était à mon sens la beauté et l’étendue de la parcelle boisée sur laquelle elle se situait. 38 ares de forêt, portant 30 arbres remarquables, dont des chênes, des hêtres, quelques bouleaux, érables et charmes,
 
-![les arbres](/images/2009/01/img_0060-300x224.jpg "img_0060")
+![les arbres]({{ site.url }}{{ site.baseurl }}/images/2009/01/img_0060-300x224.jpg "img_0060")
 
 et un extraordinaire merisier caché dans de minuscules sapins rabougris.
 
-![la découverte du merisier](/images/2009/01/img_0076-224x300.jpg "img_0076") 
+![la découverte du merisier]({{ site.url }}{{ site.baseurl }}/images/2009/01/img_0076-224x300.jpg "img_0076") 
 
 Une première visite sur place a emporté notre adhésion immédiate : c’était bien là que nous allions nous établir.
 

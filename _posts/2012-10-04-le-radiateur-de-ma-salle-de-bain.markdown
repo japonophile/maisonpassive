@@ -23,7 +23,7 @@ Par contre, le problème inverse se pose. Pour éviter aux capteurs à tube de r
 
 J’ai donc dans mon sanicule trois circuits : l’un pour l’eau chaude sanitaire, le second pour disperser l’apport de chaleur du poele bouiller et le troisième… pour ce radiateur. Sans compter bien sur le circuit de chauffage par les panneaux solaires,  mais qui lui n’est pas sous tube dans la réserve d’eau morte.
 
-[![](/images/2012/10/rotex-538-16-16-123x300.png "rotex 538-16-16")](/images/2012/10/rotex-538-16-16.png)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/10/rotex-538-16-16-123x300.png "rotex 538-16-16")]({{ site.url }}{{ site.baseurl }}/images/2012/10/rotex-538-16-16.png)
 
 Le circuit de radiateur de dispersion nous a fait tilter, mon plombier et moi. Dans certains cas, cette circulation d’eau chaude pourrait bien être utile à l’intérieur de la maison. Et voila le problème d’appoint de chaleur de ma maison passive résolu.
 

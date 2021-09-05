@@ -27,7 +27,7 @@ Le dernier est le bon : ils nous explique – et nous convainc – que ce qu’
 
 Mais je reviendrai sans doute sur ces arguments qui finissent pas nous convaincre, et nous signons : l’étude de notre projet peut commencer dès la fin des vacances. La première esquisse nous plait,
 
-![Vue en élévation du plan proposé, à partir du centre du terrain.](/images/2009/01/vue_arrie-300x180.jpg "vue_arriere") 
+![Vue en élévation du plan proposé, à partir du centre du terrain.]({{ site.url }}{{ site.baseurl }}/images/2009/01/vue_arrie-300x180.jpg "vue_arriere") 
 
  Conception Quentin Goulard, Architecte - [http://www.qga.be](http://www.qga.be/)
 

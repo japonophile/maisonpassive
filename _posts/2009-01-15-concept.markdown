@@ -7,11 +7,11 @@ published: true
 status: publish
 ---
 
-![dans ce grand domaine](/images/2009/01/em-froidchapelle-300x220.jpg "em-froidchapelle")
+![dans ce grand domaine]({{ site.url }}{{ site.baseurl }}/images/2009/01/em-froidchapelle-300x220.jpg "em-froidchapelle")
 
 Le terrain nous attendait
 
-![bouleaux](/images/2009/01/bouleaux-300x224.jpg "bouleaux") une parcelle envahie d'un taillis de bouleaux abandonnés depouis au moins 15 ans.
+![bouleaux]({{ site.url }}{{ site.baseurl }}/images/2009/01/bouleaux-300x224.jpg "bouleaux") une parcelle envahie d'un taillis de bouleaux abandonnés depouis au moins 15 ans.
 
 ça faisait un moment que j'y pensais, et j'avais déjà déterminé ce que je voulais construitre. Une habitation destinée à être occupée de façon semi permanente, en alternance avec Bruxelles par demie semaine, ou demie quinzaine à la belle saison, un peu moins l’hivers par temps froid.
 
@@ -27,7 +27,7 @@ Impératifs - Soubassement à demi enterré, en rez de jardin vers le sud et l�
 
 à ce moment je pensais à une constructione de 8m/6 , avec un toit à double pente, pour porter des capteurs solaires et une grande fenetre de toit créant un puits de lumière.
 
-![mon premier projet](/images/2009/01/img015s-300x259.jpg "img015s")
+![mon premier projet]({{ site.url }}{{ site.baseurl }}/images/2009/01/img015s-300x259.jpg "img015s")
 
  
 

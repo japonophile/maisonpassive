@@ -13,4 +13,4 @@ Commande passée, livraison probable dans 8 semaines.!?## Je croise les doigts o
 
 Et le week end prochain, j'attaque de front - l'assainissement, maintenant que le gel est parti et que le ciment va prendre - le montage de l'ossature TJI pour l'isolation - et bien sur, profiter du temps qui se remet au beau (???)  pour planter, cultiver, améliorer, organiser, embellir, ... enfin, faire de ce terrain un vrai parc.
 
-[![](/images/2010/03/DSC_0060a1-300x200.jpg "DSC_0060a")](/images/2010/03/DSC_0060a1.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/03/DSC_0060a1-300x200.jpg "DSC_0060a")]({{ site.url }}{{ site.baseurl }}/images/2010/03/DSC_0060a1.jpg)

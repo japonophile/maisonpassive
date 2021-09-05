@@ -15,7 +15,7 @@ J’ai du mal à comprendre que des personnes en responsabilité puissent donner
 
 Une simple information sur le principe même de la maison passive permettraient à certains d’éviter de publier des aprioris aussi infondés qu’absolus.
 
-Nous en avons déjà parlé ici [Prévention incendie]({% post_url 2010-06-10-prevention-incendie %} "Lien permanent vers Prévention incendie").
+Nous en avons déjà parlé ici [Prévention incendie]({% link _posts/2010-06-10-prevention-incendie.markdown %} "Lien permanent vers Prévention incendie").
 
 Il est certain que les maisons passives peuvent poser des problèmes de méthodologie dans le traitement des accidents dus au feu : comme nous le disions, il faut prévoir un  matériel spécial pour y pénétrer, et la localisation des fumées peut être plus difficile que dans les constructions traditionnelles.
 
@@ -37,4 +37,4 @@ Est-ce que l’enjeu de la limitation des nuisances dues au chauffage domestique
 
 Tout bien considéré, le plus important de nos jours ne serait-il pas de vulgariser plus largement le concept de la maison passive?
 
-[![](/images/2010/07/passif-280x300.jpg "passif")](/images/2010/07/passif.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/07/passif-280x300.jpg "passif")]({{ site.url }}{{ site.baseurl }}/images/2010/07/passif.jpg)

@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-J’ai déjà dit [ici]({% post_url 2011-02-17-les-plans-de-la-vmc %}) que Ronny et Annemie [Reygel](http://paulverluchting.be/) sont venu à Cerfontaine pour nous expliquer comment monter le réseau de la VMC.
+J’ai déjà dit [ici]({% link _posts/2011-02-17-les-plans-de-la-vmc.markdown %}) que Ronny et Annemie [Reygel](http://paulverluchting.be/) sont venu à Cerfontaine pour nous expliquer comment monter le réseau de la VMC.
 
 Ça a été l’occasion d’un petit bout d’explication et de discussion sur le principe et les effets de la maison passive.
 
@@ -17,7 +17,7 @@ Sa maison est très basse consommation sans avoir satisfait aux caractéristique
 
 Il a pu nous donner aussi son appréciation de l’influence de la VMC dans une maison. Le point le plus remarquable étant le faible taux d’humidité, que les distributeurs proposent de compenser avec des équipements aussi simples ou sophistiqués que peut le souhaiter le client.
 
-Mais pour nous le problème se pose différemment, puisque c’est justement cette caractéristique qui nous a fait opter pour d’abord pour [la maison passive]({% post_url 2009-01-13-explications %}), et en conséquence pour la VMC2f. Dans une forêt, l’air est toujours humide et même le puits canadien ne va pas l’assécher. En effet dans les 50 m de parcours de l’air en sous sol jusqu’au moment d’être introduit dans la maison, l’air se réchauffe en hivers et si le taux d’humidité diminue, la quantité d’eau en suspension ne diminue pas. L’air qui entre dans l’espace protégé n’est donc pas dépourvu d’humidité. Et en été quand le puits canadien est « bypassé » pour que la VMC puise l’air directement dans la forêt, cet air n’est toujours pas sec, la forêt est un milieu habituellement plus humide que le reste des territoires environnants.
+Mais pour nous le problème se pose différemment, puisque c’est justement cette caractéristique qui nous a fait opter pour d’abord pour [la maison passive]({% link _posts/2009-01-13-explications.markdown %}), et en conséquence pour la VMC2f. Dans une forêt, l’air est toujours humide et même le puits canadien ne va pas l’assécher. En effet dans les 50 m de parcours de l’air en sous sol jusqu’au moment d’être introduit dans la maison, l’air se réchauffe en hivers et si le taux d’humidité diminue, la quantité d’eau en suspension ne diminue pas. L’air qui entre dans l’espace protégé n’est donc pas dépourvu d’humidité. Et en été quand le puits canadien est « bypassé » pour que la VMC puise l’air directement dans la forêt, cet air n’est toujours pas sec, la forêt est un milieu habituellement plus humide que le reste des territoires environnants.
 
 Un autre aspect de la VMC est l’importance de la propreté du système pour éviter les problèmes connus par les climatisations mal saines.
 

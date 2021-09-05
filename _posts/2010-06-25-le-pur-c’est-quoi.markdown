@@ -11,7 +11,7 @@ L’isolation de la paroi horizontale  en contact avec le sol a été décidée
 
 Pour le placer, j’ai fait appel à la société
 
-[![](/images/2010/06/isoproject-279x300.jpg "isoproject")](/images/2010/06/isoproject.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/isoproject-279x300.jpg "isoproject")]({{ site.url }}{{ site.baseurl }}/images/2010/06/isoproject.jpg)
 
 Ce produit est à mon sens irremplaçable, et le pétrole qui a été utilisé pour le produire est certainement bien mieux employé là qu’à être brulé pour alimenter un moteur à combustion interne (une bagnole, quoi !), ou pire encore à mon sens, dans un générateur d'énergie, thermique ou électrique (comprenez: soit dans un poële ou une chaudière à mazout, soit dans une centrale électrique dite thermique; et tout ça pour quoi? pour chauffer les petits oiseaux?)
 
@@ -19,7 +19,7 @@ Mon seul souhait est que dans quelques dizaines d’années, ce produit soit enf
 
 Résistant à la pression (pour le sol, c’est important), il ne peut être attaqué que par la lumière mais là où je l’ai mis –entre la dalle et la chape armée-  il en sera bien protégé.
 
-[](/images/2010/06/fiche-technique-isoproject.jpg)[![](/images/2010/06/Dalle-de-sol-PUR-300x117.jpg "Dalle de sol PUR")](/images/2010/06/Dalle-de-sol-PUR.jpg)
+[]({{ site.url }}{{ site.baseurl }}/images/2010/06/fiche-technique-isoproject.jpg)[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/Dalle-de-sol-PUR-300x117.jpg "Dalle de sol PUR")]({{ site.url }}{{ site.baseurl }}/images/2010/06/Dalle-de-sol-PUR.jpg)
 
 Il est insensible à l’eau et son pouvoir isolant est le plus élevé de tous les matériaux isolants. Presque étanche à l’air (90 %), mais pas assez hélas, il doit être doublé d’une couche plastique entre le béton de la dalle et le plafonnage des murs..
 
@@ -29,7 +29,7 @@ Les propriétés de la **mousse de Polyuréthane** dépendent : - des composant
 
 D’après la fiche technique, j’aurais un lambda de 0,021.
 
-[![](/images/2010/06/fiche-technique-isoproject-300x211.jpg "fiche technique isoproject")](/images/2010/06/fiche-technique-isoproject.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/06/fiche-technique-isoproject-300x211.jpg "fiche technique isoproject")]({{ site.url }}{{ site.baseurl }}/images/2010/06/fiche-technique-isoproject.jpg)
 
 Pour les calculs PHPP, on prendra seulement 0.023 en fonction des conditions d’application, ce qui me donne pour le sol une valeur U de 0,086 w/m²K (je traduis R = 11,6). Cette valeur étant obtenue avec 25 cm d'épaisseur, ne figure pas sur la fiche technique: le PUR n'est pas réservé à l'isolation des maisons passives, beaucoup de constructions se contentent de moins que ca.
 

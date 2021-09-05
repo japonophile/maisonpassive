@@ -31,7 +31,7 @@ Les treillis de 5 m / 2 doivent se recouvrir légèrement, pour pouvoir être so
 
 Le chantier retrouve le calme pour la nuit.
 
- ![img_0267](/images/2009/06/img_0267-300x224.jpg "img_0267") 
+ ![img_0267]({{ site.url }}{{ site.baseurl }}/images/2009/06/img_0267-300x224.jpg "img_0267") 
 
 Le lendemain matin à 7 h00, fin de l’opération de placement de l’armature.
 
@@ -39,7 +39,7 @@ Au total nous utiliserons 10 plaques de treillis (moins un petit chouia) pour ar
 
 Dès 8h00, la pompe à béton arrive sur place et s’installe dans le chemin d’accès. Le conducteur déplie l’immense tuyau qui arrive très aisément au coin sud-est de la dalle, le plus éloigné de la route.
 
-![img_0276](/images/2009/06/img_0276-224x300.jpg "img_0276")
+![img_0276]({{ site.url }}{{ site.baseurl }}/images/2009/06/img_0276-224x300.jpg "img_0276")
 
 Le béton commence à couler. Un camion, puis le deuxième mais on se rend immédiatement compte que le métré est aussi insuffisant que celui de l’armature. Il faudra encore un troisième transport pour remplir le coffrage (en réalité 22 cm et pas 20) et les 5 plots de béton de la terrasse, qui n’étant pas coffrés, mesurent allègrement plus que ce qui était prévu. Au total 22 m³ de béton sont en place à 11h00. le temps est couvert avec des averses. Un peu d’eau, pas trop, excellent pour une coulée de béton, il ne va pas se dessécher au soleil.
 
@@ -47,6 +47,6 @@ Après midi clair, la surface prend correctement, puis suit dans la soirée une 
 
 J’espère la prise pour les jours prochains, même s’il faut attendre le début du mois prochain pour que le tout soit solide.
 
-![img_0278](/images/2009/06/img_0278-300x224.jpg "img_0278")
+![img_0278]({{ site.url }}{{ site.baseurl }}/images/2009/06/img_0278-300x224.jpg "img_0278")
 
 Et voilà le travail!

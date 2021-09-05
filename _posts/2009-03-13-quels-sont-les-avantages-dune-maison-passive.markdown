@@ -29,23 +29,23 @@ A quoi ressemble une VMC ?
 
 Dans le principe c’est ça
 
- ![sys-passivhaus1](/images/2009/03/sys-passivhaus1.jpeg "sys-passivhaus1") 
+ ![sys-passivhaus1]({{ site.url }}{{ site.baseurl }}/images/2009/03/sys-passivhaus1.jpeg "sys-passivhaus1") 
 
 Ou ça
 
- ![img314](/images/2009/03/img314-300x231.jpg "img314") 
+ ![img314]({{ site.url }}{{ site.baseurl }}/images/2009/03/img314-300x231.jpg "img314") 
 
 Dans la pratique, ça donne ça
 
- ![img316](/images/2009/03/img316-300x153.jpg "img316") 
+ ![img316]({{ site.url }}{{ site.baseurl }}/images/2009/03/img316-300x153.jpg "img316") 
 
 Ou ça
 
- ![img317](/images/2009/03/img317-300x248.jpg "img317") 
+ ![img317]({{ site.url }}{{ site.baseurl }}/images/2009/03/img317-300x248.jpg "img317") 
 
 Ou ça
 
- ![img318](/images/2009/03/img318-300x281.jpg "img318") 
+ ![img318]({{ site.url }}{{ site.baseurl }}/images/2009/03/img318-300x281.jpg "img318") 
 
 Lequel choisir ? C’est bien là mon problème.
 

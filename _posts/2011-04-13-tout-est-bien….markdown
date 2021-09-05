@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-[](/images/2011/04/SAM_1036.jpg)qui finit bien, dit la sagesse des nations.
+[]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1036.jpg)qui finit bien, dit la sagesse des nations.
 
 La question est de savoir seulement quand on est à la fin : tant qu’il y a de la vie, il y a de l’espoir, dit le  proverbe.
 
@@ -23,7 +23,7 @@ J’ai simplement remplacé ces pièces par un coude en laiton et un raccord alp
 
 J’allais tranquillement prendre un repos bien mérité lorsque j’ai soudain détecté une nouvelle inondation. L’origine est vite localisée : la clarinette d’eau chaude dans la toilette du rez-de chaussée laisse s’écouler des flots ininterrompus. Un nouveau déluge.
 
-[![](/images/2011/04/SAM_0245-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_0245.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_0245-225x300.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_0245.jpg)
 
 Vite fait, je coupe tout. Puis vient le temps des pourquoi. Pourquoi ces joints ont-ils brusquement laché ? pourquoi juste l’eau chaude, pourquoi à cet endroit ?
 
@@ -39,7 +39,7 @@ Tout d’un coup illumination. Les lignes sont alimentées, puisque la lampe té
 
 L’expérience m’a prouvé qu’il peu parfois manquer une phase sur un circuit, donc je prends un voltmètre comme me l’a montré Douglas la semaine précédente et je l’applique sur la ligne du lave vaisselle. L’échelle 250 V est trop faible, je passe sur l’échelle 500, et l’aiguille monte jusqu'à 400. 400 V ?  mais bien sur, au lieu d’avoir phase et neutre, j’ai deux phases sur cette prise. Je remonte qu’au tableau de distribution, test sur les lignes qui sortent du différentiel 30 mA : trois sur quatre sont alimentées en 400 V Une simple erreur de branchement du peigne, une phase connectée à la place du neutre,  et voilà le travail.
 
- [![](/images/2011/04/SAM_1029-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1029.jpg) [![](/images/2011/04/SAM_1036-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/04/SAM_1036.jpg)
+ [![]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1029-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1029.jpg) [![]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1036-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/04/SAM_1036.jpg)
 
 Demain, j’attends le verdict du technicien de Bosch pour me dire si mes machines ont souffert, ou si le fusible thermique qui doit les protéger contre une surtension a rempli son office. Encore une longue nuit à attendre.
 

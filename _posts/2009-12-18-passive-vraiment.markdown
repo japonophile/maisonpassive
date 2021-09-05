@@ -25,7 +25,7 @@ Et pour poser une telle épaisseur de laine minérale, il faut que je monte cont
 
 D’ailleurs je ne serais pas le seul à adapter la technique, d’après ce que j’ai déjà trouvé comme [réalisation](http://emmanuel30.skyrock.com/).
 
-![798173111_small](/images/2009/12/798173111_small-300x299.jpg "798173111_small")
+![798173111_small]({{ site.url }}{{ site.baseurl }}/images/2009/12/798173111_small-300x299.jpg "798173111_small")
 
 Bon, là, c’est une isolation en paille, et ça je redoute réellement, pas pour la qualité du matériau ou le pouvoir isolant, mais à cause de la mise en œuvre d’une couche continue sans trous ni pont thermique.
 
@@ -33,6 +33,6 @@ Quoique…
 
 La paille c’est encore une idée, non ?
 
-![2177475645_1](/images/2009/12/2177475645_1-300x225.jpg "2177475645_1") Je pour ais aussi monter une structure en poutrelles TJI, Ce serait plus coûteux (sensiblement, à 10 € le ml de poutre en 40 cm) mais demanderait moins de temps de montage et moins de technicité. Bon pas de plaisanterie. À raison d’un montant vertical tous les 60 cm (la largeur d’une plaque d’isolant en moyenne), sur le tour de la maison (10,8 m pour les murs nord et sud, 7,90 m pour les murs est et ouest, en ajoutant encore 10,8 pour le mur sud de rez de chaussée en terrasse) ça représente 80 poutres de +/- 3 m de long… ça représente un sacré budget. Je vais quand même tenter de trouver une solution plus économe. Et si je ne trouve pas, j’ai toujours ce plan B.
+![2177475645_1]({{ site.url }}{{ site.baseurl }}/images/2009/12/2177475645_1-300x225.jpg "2177475645_1") Je pour ais aussi monter une structure en poutrelles TJI, Ce serait plus coûteux (sensiblement, à 10 € le ml de poutre en 40 cm) mais demanderait moins de temps de montage et moins de technicité. Bon pas de plaisanterie. À raison d’un montant vertical tous les 60 cm (la largeur d’une plaque d’isolant en moyenne), sur le tour de la maison (10,8 m pour les murs nord et sud, 7,90 m pour les murs est et ouest, en ajoutant encore 10,8 pour le mur sud de rez de chaussée en terrasse) ça représente 80 poutres de +/- 3 m de long… ça représente un sacré budget. Je vais quand même tenter de trouver une solution plus économe. Et si je ne trouve pas, j’ai toujours ce plan B.
 
 A suivre …/…

@@ -29,9 +29,9 @@ Et la conversation se conclue : « _Après réflexion, je corrige un peu ce que 
 
 monoblocs, c'est sans doute ce que j'ai utilisé à Ruisbroek voilà déjà quelques années: des legrand
 
-[![](/images/2010/10/79294-300x225.jpg "79294")](/images/2010/10/79294.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/79294-300x225.jpg "79294")]({{ site.url }}{{ site.baseurl }}/images/2010/10/79294.jpg)
 
-ici j'ai ceci, en niko, avec caches frontal : interrupteurs[![](/images/2010/10/Thumb.ashx_.jpg "Thumb.ashx")](/images/2010/10/Thumb.ashx_.jpg)et prises [![](/images/2010/10/Thumb.ashx-1.jpg "Thumb.ashx 1")](/images/2010/10/Thumb.ashx-1.jpg)
+ici j'ai ceci, en niko, avec caches frontal : interrupteurs[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/Thumb.ashx_.jpg "Thumb.ashx")]({{ site.url }}{{ site.baseurl }}/images/2010/10/Thumb.ashx_.jpg)et prises [![]({{ site.url }}{{ site.baseurl }}/images/2010/10/Thumb.ashx-1.jpg "Thumb.ashx 1")]({{ site.url }}{{ site.baseurl }}/images/2010/10/Thumb.ashx-1.jpg)
 
 _Pour ce qui est des va-et-vient, pourquoi n'utilises-tu pas des télérupteurs. Même s'ils font du bruit, placés dans le tableau électrique ou près du point d'utilisation (lampe...) , ensuite, les poussoirs sont alimentés seulement par deux fils et on peut en mettre autant qu'on veut en parallèle et même en ajouter ultérieurement sans problème. Mais peut-être que quand tu parles de va-et-vient, tu penses seulement au télérupteur. En tout cas, les va-et-vient à 3 interrupteurs me paraissent moins pratiques. Quand on arrive à 4 ou 5 (ce que j'avais eu l'occasion de faire avec des inverseurs bipolaires qu'on mettait en série), il ne saurait plus en être question._
 
@@ -47,11 +47,11 @@ Encore faudra-t-il les raccorder correctement, je n’ai pas encore pratiqué ce
 
 Ça manque d’image, aujourd’hui alors je communique les vues du rez de chaussée
 
-[![](/images/2010/10/SAM_0168-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/10/SAM_0168.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0168-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0168.jpg)
 
 Du rez de jardin
 
-[![](/images/2010/10/SAM_0171-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/10/SAM_0171.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0171-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/10/SAM_0171.jpg)
 
 Quant à la salle d’eau, on verra demain quand j’aurai terminé les cablages.
 
@@ -59,6 +59,6 @@ NB: la couleur jaune n'est pas due à une première décoration, c'est l"effet
 
 J'ai utilisé du Stuc-primer _Dispersion à base de matière synthétique pour supports très absorbants ou irrégulièrement absorbants afin de prévenir le risque de grillage de l’enduit de plâtre._
 
-[![](/images/2010/10/0e07a1b6-117d-4175-9905-353f66c29ead.jpg "0e07a1b6-117d-4175-9905-353f66c29ead")](/images/2010/10/0e07a1b6-117d-4175-9905-353f66c29ead.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/10/0e07a1b6-117d-4175-9905-353f66c29ead.jpg "0e07a1b6-117d-4175-9905-353f66c29ead")]({{ site.url }}{{ site.baseurl }}/images/2010/10/0e07a1b6-117d-4175-9905-353f66c29ead.jpg)
 
 …/…

@@ -11,7 +11,7 @@ J’en reviens.
 
 Le [symposium de la maison passive](http://www.maisonpassive.be/?+5-octobre-2012-Symposium+)  s’est déroulé hier à Bruxelles.
 
-![](/images/2012/10/breveon246-85eb0.png)
+![]({{ site.url }}{{ site.baseurl }}/images/2012/10/breveon246-85eb0.png)
 
 Evénement, pour moi très au dessus de mon quotidien, puisque destiné aux professionnels de la construction passive par les plateforme [pmp](http://www.maisonpassive.be/) et [PHP](http://www.passiefhuisplatform.be/?col=-home&lng=nl) avec le soutien de l’[ibge](http://www.bruxellesenvironnement.be/Templates/Home.aspx).
 

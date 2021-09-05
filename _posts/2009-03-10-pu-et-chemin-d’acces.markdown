@@ -19,11 +19,11 @@ La deuxième chose qui avance seule, c’est notre chemin d’accès depuis la r
 
 l'été dernier, on voyait ainsi le terrain et la route
 
- ![img_0087](/images/2009/03/img_0087-300x224.jpg "img_0087") 
+ ![img_0087]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0087-300x224.jpg "img_0087") 
 
 J’ai obtenu un remblai qui ne m’a coûté que la peine de la demander, et maintenant l’accès se présente ainsi :
 
- ![img_0001](/images/2009/03/img_0001-300x224.jpg "img_0001") 
+ ![img_0001]({{ site.url }}{{ site.baseurl }}/images/2009/03/img_0001-300x224.jpg "img_0001") 
 
 Reste qu’il faudra attendre un peu pour en faire un chemin carrossable, mais les engins peuvent déjà l’emprunter, il se tasse, les cailloux schisteux englobés dans l’argile – c’est le terrain ici – vont peu a peu prendre leur place définitive, et il sera alors temps de poser un géotextile et une couche de cailloux calibrés.
 

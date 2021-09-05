@@ -17,7 +17,7 @@ La question de l’influence de l’isolation sur le comportement d’un feu dom
 
 C’est le but de cette étude sur les conséquences de l’isolation accrue des maisons passives : déterminer en quoi l’importance de l’isolation d’une maison passive pourrait constituer un accroissement de risque. Mais bien souvent, les détracteurs parlent d’ossature bois, ou de matériaux dits naturels » en disant maison passive, ce qui fausse le débat.
 
-[![](/images/2010/08/6110.jpg "6110")](/images/2010/08/6110.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/6110.jpg "6110")]({{ site.url }}{{ site.baseurl }}/images/2010/08/6110.jpg)
 
 Si je crois dans le système, je vais répandre la bonne parole disant que la maison passive ne provoque aucun accroissement de danger, au contraire.
 
@@ -33,15 +33,15 @@ Je commence à penser concrètement à l’étanchéité à l’air. Pour cela, 
 
 Ce qui suppose que toutes les conduites qui doivent passer dans les murs soient en place. A commencer par l’électricité, qui devient l’objectif des semaines qui viennent. A l'aide des plans de [selfmatic](http://www.houseonline.be/Installer_soi-meme_l_electricite_et_la_domotique_Selfmatic.aspx) qui m’a procuré le matériel prêt à poser, et qui retiennent toute mon attention,  j'étudie les schémas,  pas a pas.
 
-[![](/images/2010/08/IMG_0025-300x224.jpg "IMG_0025")](/images/2010/08/IMG_0025.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0025-300x224.jpg "IMG_0025")]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0025.jpg)
 
 J’ai donc commencé ce matin à placer les boites dans les murs partout où doit venir une prise, un interrupteur ou une dérivation. Ici viendra la cuisine :
 
-[![](/images/2010/08/IMG_0028-300x224.jpg "IMG_0028")](/images/2010/08/IMG_0028.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0028-300x224.jpg "IMG_0028")]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0028.jpg)
 
 En quelques heures, j’ai préparé les encastrements de tout le niveau rez de chaussée. J’ai alors commencé à tirer les cables depuis le tableau jusqu’aux boites.
 
-[![](/images/2010/08/IMG_00291-224x300.jpg "IMG_0029")](/images/2010/08/IMG_00291.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_00291-224x300.jpg "IMG_0029")]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_00291.jpg)
 
 C’est là que ça se complique. Pour assurer l’étanchéité à l’air au niveau des entrées de boites, j’ai commandé des cables VOB au lieu des traditionnels tubes annelés préfilés. Mais tous les cables qui vont passer dans le sol (noyés dans la chape) doivent etre protégés par tubes annelés. Donc – un surcout de la maison passive- je dois enfiler toutes ces portions de cables, et cela m’a demandé de me procurer environ 300 m de tube annelé (en provenance de brico dépôt à Maubeuge). La dépense n’est pas conséquente, mais le travail d’enfilage sera quand meme non négligeable.
 

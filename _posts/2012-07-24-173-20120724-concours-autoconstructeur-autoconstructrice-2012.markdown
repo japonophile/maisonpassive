@@ -19,13 +19,13 @@ Puis j’ai commencé par abattre et dessoucher moi même 15 ares de taillis bou
 
 Encore une livraison de TJI pour la charpente, avec deux palettes de cellit. Je suis allé chercher une camionnette de toles et j’ai placé la toiture juste avant la première neige, début décembre.
 
-[![](/images/2012/07/IMG_0880-300x224.jpg "IMG_0880")](/images/2012/07/IMG_0880.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/IMG_0880-300x224.jpg "IMG_0880")]({{ site.url }}{{ site.baseurl }}/images/2012/07/IMG_0880.jpg)
 
 A la saison suivante, j’ai commencé la préparation de l’isolation extérieure des murs en posant des poutres couvertes d’une couche de cellit (comme pour le toit, mais sans toles) pendant que je laissais le menuisier placer les fenêtres en tunnel, triple vitrage, chassis bois à double coupure thermique et trois joints, deux grandes fenêtres à frappe et le reste en oscillo-battant. Au mois d’aout, les coffrage pour l’insufflation de l’isolant étant terminés, j’ai fait  placer la ouate de verre dans les murs et le toit, pendant que je me hâtais de poser les réseaux d’eau et d’électricité pour pouvoir attaquer les plafonnages avant l’hiver.
 
 Chose faite, les mois froids ont été consacrés au séchage des parois. Placement du système solaire thermique pour l’ecs, et du compresseur pour l’utilisation de l’eau de pluie par mon plombier, tout en continuant moi-même les branchements électriques : montage du tableau, placement des prises, interrupteur et luminaires. Dernière intervention extérieures : les chapes et le carrelage que j’ai fait faire, pour une question de timing, pendant que je m’occupais de la pose du bardage à l’extérieur : des lames de mélèze alpin huilé.
 
-[![](/images/2012/07/SAM_0577-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2012/07/SAM_0577.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/SAM_0577-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/07/SAM_0577.jpg)
 
 Deux ans après les premiers coups de pelle, je pouvais rentrer dans une maison encore en chantier, mais déjà habitable et quasi passive, puisque la VMC a été installée avant l’été, en même temps que le poêle bouilleur qui vient en soutien du chauffage de l’eau sanitaire pendant les périodes sans soleil de novembre, décembre et janvier.
 
@@ -33,7 +33,7 @@ Test d’infiltrométrie à la fin de l’été, je me suis payé une absence qu
 
 Depuis j’ai installé mon domicile dans ma maison passive de vacances en Ardennes.
 
-[![](/images/2012/07/P6290443-300x225.jpg "OLYMPUS DIGITAL CAMERA")](/images/2012/07/P6290443.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/P6290443-300x225.jpg "OLYMPUS DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/07/P6290443.jpg)
 
 [http://maisonpassive.choppin.be/](http://maisonpassive.choppin.be/)
 

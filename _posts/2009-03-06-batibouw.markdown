@@ -9,7 +9,7 @@ status: publish
 
 Depuis vendredi dernier, c’est Batibouw a Bruxelles
 
-![img307](/images/2009/03/img307-297x300.jpg "img307")
+![img307]({{ site.url }}{{ site.baseurl }}/images/2009/03/img307-297x300.jpg "img307")
 
 Pour ceux qui ne connaissent pas, c’est cette année la cinquantième fois que la foire du batiment et de la décoration, surtout du batiment maintenant, se tient sur le plateau du Heysel.
 

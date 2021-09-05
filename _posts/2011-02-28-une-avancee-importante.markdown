@@ -13,7 +13,7 @@ Même si elle est encore en chantier, elle est habitable : plafonnages terminé
 
 De plus nous avons pas mal cogité et cherché, et nous organiserons l’espace sommeil en deux parties, séparées par des armoires, dont une que nous avons trouvée chez troc à Evere, ramenée ce weekend sur la remorque et commencé à monter avec une moquette premier prix, pour nous permettre d’attendre encore quelques mois le placement du parquet prévu.
 
-[![](/images/2011/02/SAM_0893-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0893.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0893-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0893.jpg)
 
 Pourtant ce weekend avait mal commencé.
 
@@ -29,7 +29,7 @@ Il n’y a qu’à démonter, remonter et faire bien attention à ce que les joi
 
 Gagné, un seul démontage remontage, et tout reste sec !
 
-[![vue de dessus](/images/2011/02/SAM_0881-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0881.jpg)
+[![vue de dessus]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0881-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0881.jpg)
 
 L’autre problème, c’est une fuite à l’arrivée d’eau froide de la douche. Un tout petit filet, mais bien sur, ça fait tache (c’est le cas de le dire, c’est la couleur du carrelage qui signale l’écoulement, au demeurant assez faible, ce qui explique qu’il est passé inaperçu à la dernière inspection.
 
@@ -51,6 +51,6 @@ Encore une nuit de patience, alors que je suis sur des charbons ardents.
 
 Enfin, au milieu de toutes ces contrariétés, j’ai la plaisir de pouvoir remercier M. Mirgaut de son intervention. Mon compteur est raccordé, l’électricité de la maison, alimenté en 380 + N 25 A, devrait me fournir un courant assez stable malgré la distance : 170 m entre le compteur et le tableau de distribution, ça pourrait provoquer une basse de tension, du moins si je n’étais pas alimenté en triphasé.
 
-[![](/images/2011/02/SAM_0897-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0897.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0897-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0897.jpg)
 
 Et finalement, ce lundi soir, nous décidons de monter occuper la maison. C’est plus large que la caravane, même si le confort est encore assez spartiate.

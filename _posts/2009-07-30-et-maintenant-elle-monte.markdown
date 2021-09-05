@@ -9,11 +9,11 @@ status: publish
 
 Je me suis trouvé il y a 15 jours au pied du mur, je ne sais si on y a vu le maçon, mais maintenant je n’y suis plus. En suivant les plans et en utilisant le jeu de Lego (mes gros blocs jaunes) réparti sur toute la surface de la dalle, j’ai commencé a assembler les pièces : un rang de blocs de 30 cm tout au tour de ma maison pour coiffer la ceinture de Perinsul, qui sera noyé dans la couche de PUR à projeter pour l’isolation du sol à l’intérieur.
 
-![img_0419](/images/2009/07/img_0419-300x224.jpg "img_0419")
+![img_0419]({{ site.url }}{{ site.baseurl }}/images/2009/07/img_0419-300x224.jpg "img_0419")
 
 Puis on commence le deuxième rang (pas sur la façade sud, qui sera élevée uniquement en blocs de 20, étant donné qu’elle est totalement hors sol). Et entre les deux rangs, une couche de Murfor, une armature légère qui assure la solidarité des blocs et la solidité du mur, noyée dans une épaisse couche de colle (5,7 kg par m²).
 
-![img_0426](/images/2009/07/img_0426-300x224.jpg "img_0426")
+![img_0426]({{ site.url }}{{ site.baseurl }}/images/2009/07/img_0426-300x224.jpg "img_0426")
 
 Etendre la colle, poser le murfor, une nouvelle couvhe de colle, poser le bloc arraché au tas le plus proche, le battre avec un maillet de caoutchouc dur pour le mettre à la place la plus juste possible, vérifier au niveau s’il est aligné en longueur, en largeur et en hauteur, éventuellement le déplacer, le replacer si l'équilibre n'est pas correct, ne s’arrêter de l’ajuster ou le replacer que lorsque les trois vérifications coincent la bulle au centre.
 
@@ -31,8 +31,8 @@ En attendant, les murs sont de plus en plus haut, et pas question de placer un �
 
 Sur le coin ouest de rez de jardin, le plan prévoit une fenêtre que je pensais supprimer par crainte qu’elle soit trop basse, et donc sous le niveau du sol. Mais finalement je la maintiens, en me contentant de la rehausser de 25 cm (l’épaisseur d’un bloc). Arrivé au 11ème « tas » (rangée de blocs), il faut coiffer cette ouverture d’un linteau. Le quel linteau, en 30 cm de large, et de densité correspondante, pèse allègrement son poids (que je n’ai pas exactement déterminé. D’où la nécessité d’une astuce pour le mettre en place. À l’égyptienne…
 
-![img_0491](/images/2009/07/img_0491-300x224.jpg "img_0491")![img_0481](/images/2009/07/img_0481-300x224.jpg "img_0481")
+![img_0491]({{ site.url }}{{ site.baseurl }}/images/2009/07/img_0491-300x224.jpg "img_0491")![img_0481]({{ site.url }}{{ site.baseurl }}/images/2009/07/img_0481-300x224.jpg "img_0481")
 
-![img_0496](/images/2009/07/img_0496-300x224.jpg "img_0496")Finalement, après ces dix jours de travail, il ne reste plus que deux ou trois rangs de blocs de 30 cm à monter sur le mur nord. Le travail le plus lourd est fait. Je peux penser à commander les hourdis qui formeront le sol du rez de chaussée.
+![img_0496]({{ site.url }}{{ site.baseurl }}/images/2009/07/img_0496-300x224.jpg "img_0496")Finalement, après ces dix jours de travail, il ne reste plus que deux ou trois rangs de blocs de 30 cm à monter sur le mur nord. Le travail le plus lourd est fait. Je peux penser à commander les hourdis qui formeront le sol du rez de chaussée.
 
-![img_0438](/images/2009/07/img_0438-300x224.jpg "img_0438")
+![img_0438]({{ site.url }}{{ site.baseurl }}/images/2009/07/img_0438-300x224.jpg "img_0438")

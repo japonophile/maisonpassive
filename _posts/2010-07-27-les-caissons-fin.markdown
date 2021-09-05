@@ -9,13 +9,13 @@ status: publish
 
 J’ai mis hier le dernier clou et la dernière vis à l’habillage en bois de ma maison en béton cellulaire.
 
-[![](/images/2010/07/80-caissons-fin-300x168.jpg "80-caissons fin")](/images/2010/07/80-caissons-fin.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/07/80-caissons-fin-300x168.jpg "80-caissons fin")]({{ site.url }}{{ site.baseurl }}/images/2010/07/80-caissons-fin.jpg)
 
 Lundi prochain, l’équipe qui va insuffler la ouate dans cet espace vient commencer le travail.
 
 En attendant c’est un peu relâche. Et ça fait du bien. Je me rends compte que je dois apprendre à me  ménager des créneaux d’inactivité si je veux gérer un calendrier qui, pour être souple (pas de dead line), n’en comporte pas moins des nœuds incontournables.
 
-Au mois d’avril je disais innocemment (**[les caissons]({% post_url 2010-04-22-les-caissons %}))** _En dehors du temps nécessaire à la préparation du chantier,  il me suffit de 15 minutes pour poser une poutre. Soit théoriquement deux jours de travail._
+Au mois d’avril je disais innocemment (**[les caissons]({% link _posts/2010-04-22-les-caissons.markdown %}))** _En dehors du temps nécessaire à la préparation du chantier,  il me suffit de 15 minutes pour poser une poutre. Soit théoriquement deux jours de travail._
 
 J’insistai sur le « théoriquement ! », je constate aujourd’hui avec quelle raison.
 
@@ -23,7 +23,7 @@ Parce que dans la réalité, les 15 minutes de mouvements élémentaires nécess
 
 Même si je constate que la mise en place de l’échafaudage, une fois intégrées les opérations successives, ne me prend finalement qu’une grosse demie heure, on sait que les mouvements à 6,50 m de hauteurs sont moins libres qu’au sol, percer, visser, clouer, porter exige beaucoup plus de temps et d’effort mesuré.
 
-[![](/images/2010/07/IMG_0217-300x224.jpg "IMG_0217")](/images/2010/07/IMG_0217.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/07/IMG_0217-300x224.jpg "IMG_0217")]({{ site.url }}{{ site.baseurl }}/images/2010/07/IMG_0217.jpg)
 
 Donc parvenir à couvrir de TJI 1,50 m du mur est en une demi-journée, et compter encore une demi-journée pour latter avant la mise en place des plaques de Celit comme pare pluie, ou encore dans une demi-jouirnée, arriver à poser deux planches de rive et les deux panneaux de celit au dessus d'une fenetre au sud, c’est un bon rendement.
 

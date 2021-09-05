@@ -9,15 +9,15 @@ status: publish
 
 Le mur est est terminé, au sud je suis au niveau du rez de chaussée, il faut maintenant monter la coursive.
 
-[![](/images/2011/07/SAM_1380-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/07/SAM_1380.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/07/SAM_1380-225x300.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/07/SAM_1380.jpg)
 
 Monter la coursive a commencé par l’édification des arches dans le sens nord sud, sur 130 cm de large, puis a les relier entre elles par des poutres de 30/150, et enfin de contreventer les portiques pour stabiliser l’ensemble. Je terminerai par une triangulation avec des cables pour rabattre le poids de l’édifice cotre la façade de la maison, à laquelle elle n’est pas attachée. Travail lent et pourtant pas réellement complexe, le plan est simple, les solives sous le plancher consolident la construction, le chainage qui les maintient en place aussi, et les lames du plancher prennent leur place l’une après l’autre.
 
-[![](/images/2011/07/SAM_1397-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/07/SAM_1397.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/07/SAM_1397-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/07/SAM_1397.jpg)
 
 Dans le même temps, je commence la base du bardage sur ce mur sud au rez de chaussée, pour que la terrasse puisse encadrer parfaitement l’espace libre, et rediriger la pluie vers l’extérieur.
 
-[![](/images/2011/07/SAM_1399-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/07/SAM_1399.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/07/SAM_1399-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/07/SAM_1399.jpg)
 
 Sous la coursive, viendra prendre place une terrasse qui va se monter en même temps, à 50 cm du sol. Juste le temps de placer les planches.
 

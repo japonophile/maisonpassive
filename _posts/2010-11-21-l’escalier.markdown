@@ -13,7 +13,7 @@ Trois interventions vendredi pour me dire que c’est possible, faisable et rais
 
 On a parfois des visites impromptues qui font très plaisir
 
-[![](/images/2010/11/AM_0319-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/11/AM_0319.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/11/AM_0319-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/11/AM_0319.jpg)
 
 Des conseils de Jacques et de Rémi pour attirer mon attention sur les choses à faire ou ne pas faire.
 
@@ -25,13 +25,13 @@ Je commence par prendre le niveau supérieur, le niveau inférieur et après avo
 
 Malgré le coup d'oeil de Christine, le résultat est catastrophique. Les marches ne se ressemblent pas… donc je recommence avec une autre couleur.
 
-[![](/images/2010/11/revlmont101121-300x168.jpg "revlmont101121")](/images/2010/11/revlmont101121.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/11/revlmont101121-300x168.jpg "revlmont101121")]({{ site.url }}{{ site.baseurl }}/images/2010/11/revlmont101121.jpg)
 
 Pas vraiment mieux. Finalement je trouve un truc sur un blog : quadriller tout le mur, des verticales à l’intervalle de la grandeur de la marche, des horizontales à la hauteur de la contremarche, puis je retrace dessus au crayon rouge et je fignole en indiquant le niveau du béton au fluo jaune, avec la position du coffrage de la contremarche.
 
 Ca devrait ressembler à ça :
 
-[![](/images/2010/11/AM_0339-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/11/AM_0339.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/11/AM_0339-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/11/AM_0339.jpg)
 
 voilà j’ai le modèle: dimensions: hauteur  17,3 / giron 25,2, 10 marches pour remonter de 173 cm en 2.52 m, ce qui donne un pas de 59,8 cm.
 

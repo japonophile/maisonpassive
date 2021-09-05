@@ -17,13 +17,13 @@ ce mardi, une grosse journée de travail a permis la mise en route de ce rotex 
 
 \- finalement, création du premier circuit de puisage, la douche qui vient d’etre raccordée.
 
-[![](/images/2011/02/SAM_0822-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0822.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0822-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0822.jpg)
 
 Donc aujourd’hui, sous le soleil, je suppose que l’eau du rotex a commencé à chauffer.
 
 Quand atteindra-t-elle la température suffisante pour prendre une douche ? ou pour diffuser un peu de chaleur dans la salle de bain ? nous le saurons vendredi.
 
-[![](/images/2011/02/SAM_0844-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/02/SAM_0844.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0844-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/02/SAM_0844.jpg)
 
 Le principe du rotex est assez intéressant. J’en ai déjà parlé. Une réserve d’eau « morte » accumule la chaleur.
 

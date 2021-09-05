@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-Comme l’an dernier à pareille époque, j’ai participé à l’assemblée générale de l’asbl des [passeurs d’énergie](http://passeursdenergie.be/)[![](/images/2012/10/PE-300x232.jpg "PE")](/images/2012/10/PE.jpg).
+Comme l’an dernier à pareille époque, j’ai participé à l’assemblée générale de l’asbl des [passeurs d’énergie](http://passeursdenergie.be/)[![]({{ site.url }}{{ site.baseurl }}/images/2012/10/PE-300x232.jpg "PE")]({{ site.url }}{{ site.baseurl }}/images/2012/10/PE.jpg).
 
 C’est quoi, ce truc ?
 

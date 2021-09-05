@@ -17,6 +17,6 @@ Mais d’ici là, il sera déjà possible de marcher à la surface, de charger m
 
 Dans ces conditions, le coffrage est devenu inutile, les madriers qui ont été patiemment assemblés autour du plateau armé sont détachés un à un. Les blocs de bois et les piquets de fer qui les maintenaient sont otés et la dalle apparaît toute entière.
 
- ![img_0279](/images/2009/06/img_0279-224x300.jpg "img_0279")   ![img_0285](/images/2009/06/img_0285-300x224.jpg "img_0285") 
+ ![img_0279]({{ site.url }}{{ site.baseurl }}/images/2009/06/img_0279-224x300.jpg "img_0279")   ![img_0285]({{ site.url }}{{ site.baseurl }}/images/2009/06/img_0285-300x224.jpg "img_0285") 
 
 On voit déjà mieux la forme de la maison, on peut déjà deviner où vont s’élever les murs. Ça avance !

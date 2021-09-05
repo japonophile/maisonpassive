@@ -11,7 +11,7 @@ En passant je voudrais mentionner une rencontre amusante. Dimanche dernier, en d
 
 C’est à lui que je dois le  fameux panneau que j’ai mis à l’entrée du terrain, route communale :
 
-[![](/images/2010/09/IMG_0029-150x150.jpg "IMG_0029")](/images/2010/09/IMG_0029.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/09/IMG_0029-150x150.jpg "IMG_0029")]({{ site.url }}{{ site.baseurl }}/images/2010/09/IMG_0029.jpg)
 
 J’en déduis que Revleumont est un lieu attachant, si on en garde un aussi bon souvenir, assez bon en tout cas pour désirer y revenir après tant de temps passé !
 

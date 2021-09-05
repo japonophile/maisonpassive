@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-[Un commentaire]({% post_url 2011-04-06-pourquoi-j’ai-change-mon-fusil-d’epaule %}) reçu de Christian booste ma réflexion : citation _Je serai heureux d'avoir un retour d'expérience quand à votre poêle avec bouilleur; marque, puissance etc..
+[Un commentaire]({% link _posts/2011-04-06-pourquoi-j’ai-change-mon-fusil-d’epaule.markdown %}) reçu de Christian booste ma réflexion : citation _Je serai heureux d'avoir un retour d'expérience quand à votre poêle avec bouilleur; marque, puissance etc..
 
 J'avoue hésiter entre la fabrication d'un roket avec bouilleur et l'achat d'un poêle avec bouilleur (moins encombrant).
 

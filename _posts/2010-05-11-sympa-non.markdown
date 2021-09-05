@@ -31,4 +31,4 @@ He oui, c’est moi que vous lisez donc de temps en temps et dont vous pouvez su
 
 Sympa, non ?
 
-[](/images/2010/05/google-analytics-un-an-01052010.png)[](/images/2010/05/google-analytics-un-an-01052010.jpg)[![](/images/2010/05/google-analytics-un-an-01052010.jpg "google analytics un an 01052010")](/images/2010/05/google-analytics-un-an-01052010.jpg)
+[]({{ site.url }}{{ site.baseurl }}/images/2010/05/google-analytics-un-an-01052010.png)[]({{ site.url }}{{ site.baseurl }}/images/2010/05/google-analytics-un-an-01052010.jpg)[![]({{ site.url }}{{ site.baseurl }}/images/2010/05/google-analytics-un-an-01052010.jpg "google analytics un an 01052010")]({{ site.url }}{{ site.baseurl }}/images/2010/05/google-analytics-un-an-01052010.jpg)

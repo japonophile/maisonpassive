@@ -11,7 +11,7 @@ Hé oui, on risque d’y rester à ce niveau zéro…
 
 Mais maintenant je peux montrer à quoi ça ressemble.
 
-![img_0601](/images/2009/09/img_0601-300x224.jpg "img_0601")
+![img_0601]({{ site.url }}{{ site.baseurl }}/images/2009/09/img_0601-300x224.jpg "img_0601")
 
 Après avoir posé les hourdis, étançonné, placé le « coffrage », coulé la dalle, étalé le béton au râteau et à la latte, rabattu le film plastique qui assure l’étanchéité autour des hourdis, il ne reste plus qu’a attendre la prise. Trois semaines, donc pas avant le 15 septembre.
 
@@ -27,10 +27,10 @@ Je n’ai pas encore déterminé si cette couche doit empêcher l’eau de rentr
 
 En tout cas, j’ai « peint » ma maison blanche qui est devenu noire, ou de moins à moitié noire.
 
-![img_0610](/images/2009/09/img_0610-300x224.jpg "img_0610")
+![img_0610]({{ site.url }}{{ site.baseurl }}/images/2009/09/img_0610-300x224.jpg "img_0610")
 
 Et par acquis de conscience, j’ai pris la précaution de rejointoyer les interstices entre les blocs, là où l’écart laissait des trous dans la « peinture », pour que le film de produit imperméable soit continu. J’attends la prochaine visite de chantier pour valider l’opération.
 
-![img_0617](/images/2009/09/img_0617-300x224.jpg "img_0617")
+![img_0617]({{ site.url }}{{ site.baseurl }}/images/2009/09/img_0617-300x224.jpg "img_0617")
 
 Et je prends une semaine de vacances !

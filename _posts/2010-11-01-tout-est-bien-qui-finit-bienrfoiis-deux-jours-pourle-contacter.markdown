@@ -29,11 +29,11 @@ c'est pas le premier...
 
 J’ai du aller le chercher et le faire remonter route communale. Et comme son camion ne pouvait décharger que sur la gauche, et qu’il n’aurait pas osé descendre sur mon chemin d’accès, heureusement qu’il avait une bonne grue ? pas si excellente que ça, finalement, parce malgré une portée de 25 m, elle donnait des signes de surcharge à à peine 10 mètres de distance. Il faut dire que le mélèze est un bois dense : deux fois plus que le red cedar, 30 % ce plus que le douglas. Mais finalement le livreur était de bonne composition. Il a fait une belle marche arrière de 500 m, un demi-tour dans le chemin des bouleaux, il a fractionné le déchargement et le tas est enfin à la place que je lui avais préparée. Sans casse apparente, si non le cadre de l’emballage.
 
-[![](/images/2010/11/SAM_0193-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/11/SAM_0193.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/11/SAM_0193-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/11/SAM_0193.jpg)
 
 Tout est bien qui finit bien, il ne reste plus qu’à poser le bardage.
 
-[![](/images/2010/11/SAM_0195-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2010/11/SAM_0195.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/11/SAM_0195-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2010/11/SAM_0195.jpg)
 
 Mais je reste sur mon impression. Ce détaillant ne m’a pas pris au sérieux. Bon, je dois dire à sa décharge que ça m’étonnerait qu’il se soit fait une grosse commission dans l’affaire.
 

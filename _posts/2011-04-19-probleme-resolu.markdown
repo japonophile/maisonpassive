@@ -15,7 +15,7 @@ Enfin, au bout de deux jours et de deux visites, mes appareils fonctionnent. Et 
 
 Donc je peux faire la lessive ici à Cerfontaine, avec de l’eau de pluie – attention, pas trop de lessive sinon ça mousse, pas d’anticalcaire non plus ça ne sert à rien – fini les navettes vers Bruxelles.
 
-[![](/images/2011/04/alfa-mix-150x150.jpg "alfa-mix")](/images/2011/04/alfa-mix.jpg)Je dois encore monter mon système [alfamix](http://www.consolar.be/Francais/Alfa_mix/alfa_mix.html) qui me permettra d’utiliser de l’eau chauffée au soleil pour alimenter la lessive, sans courir le risque de rétrécir les pulls. De quoi réduire la dépendance électrique, sans toutefois l’annuler
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/04/alfa-mix-150x150.jpg "alfa-mix")]({{ site.url }}{{ site.baseurl }}/images/2011/04/alfa-mix.jpg)Je dois encore monter mon système [alfamix](http://www.consolar.be/Francais/Alfa_mix/alfa_mix.html) qui me permettra d’utiliser de l’eau chauffée au soleil pour alimenter la lessive, sans courir le risque de rétrécir les pulls. De quoi réduire la dépendance électrique, sans toutefois l’annuler
 
 C’est là que je me rends compte que l’autonomie électrique pourrait avoir du bon. En effet hier matin vers 8h30, le courant s’arrête, plus de jus. Première réaction : il y a encore un circuit qui flanche, qu’est que j’ai laissé comme boulette ? Hé non, c’est pas moi. C’est une coupure de secteur : remplacement d’une armoire électrique dans la quartier, nous ne retrouverons l’alimentation électrique que vers 14h00.
 

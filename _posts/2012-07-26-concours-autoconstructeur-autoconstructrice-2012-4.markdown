@@ -19,7 +19,7 @@ Première question à l’architecte qui nous en parle : « c’est quoi ça p
 
 Et nous commençons par les premières définitions : une maison passive est une maison qui consomme très peu, une maison « qu’on en chauffe pas », oui du moins tellement peu que pendant nos trois jours d’absence, elle reste à température égale, et surtout sèche. Pour qui construit une maison dans un bois, l’atmosphère humide est le problème principal. Si construire une maison passiver me promet une atmosphère saine, sèche et tempérée, je signe des deux mains.
 
-[![](/images/2012/07/729px-Maison_passive_schéma_1.svg_-300x246.png "729px-Maison_passive_schéma_1.svg")](/images/2012/07/729px-Maison_passive_schéma_1.svg_.png)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/729px-Maison_passive_schéma_1.svg_-300x246.png "729px-Maison_passive_schéma_1.svg")]({{ site.url }}{{ site.baseurl }}/images/2012/07/729px-Maison_passive_schéma_1.svg_.png)
 
 Nous voilà donc partis pour étudier un programme complet qui nous permettra de construire cette fameuse maison qu’on chauffe avec l’équivalent d’un fer à repasser.
 
@@ -37,7 +37,7 @@ Arrivons à la conclusion : une maison passive est une maison
 
 Aucun impératif de matériau ni de forme (sauf peut être que les murs extérieurs exposés plombent le bilan thermique). La norme maison passive laisse au constructeur le champ libre quant aux moyens à utiliser pour atteindre le résultat. C’est ici qu’interviennent les choix qui mettront en avant l’impact de la construction sur l’environnement.
 
-[![](/images/2012/07/maisonpassive9-300x236.jpg "maisonpassive9")](/images/2012/07/maisonpassive9.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/07/maisonpassive9-300x236.jpg "maisonpassive9")]({{ site.url }}{{ site.baseurl }}/images/2012/07/maisonpassive9.jpg)
 
 Mais on en reparlera !
 

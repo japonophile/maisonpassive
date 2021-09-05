@@ -17,7 +17,7 @@ Mais voilà, quand on se prend au jeu, il y a toujours un moment où l’attente
 
 Alors je trompe le temps en cherchant –ce qui doit aussi être fait – des fournisseurs. Je pense avoir résolu le problème des chassis, ils seront tout à fait passifs, et la pose ne se fera ni en applique, ni en tunnel, mais par une technique astucieuse, un peu entre les deux : chaque baie sera habillée d’une sorte de tunnel en multiplex qui permettra de poser les chassis à peu près au milieu du mur, à mi distance entre l’extérieur et l’intérieur.
 
-[![encadrement des baies](/images/2010/02/img527-300x201.jpg "img527")](/images/2010/02/img527.jpg)[![une baie encadrée](/images/2010/02/img528-300x241.jpg "img528")](/images/2010/02/img528.jpg)
+[![encadrement des baies]({{ site.url }}{{ site.baseurl }}/images/2010/02/img527-300x201.jpg "img527")]({{ site.url }}{{ site.baseurl }}/images/2010/02/img527.jpg)[![une baie encadrée]({{ site.url }}{{ site.baseurl }}/images/2010/02/img528-300x241.jpg "img528")]({{ site.url }}{{ site.baseurl }}/images/2010/02/img528.jpg)
 
 Dans mon premier croquis , la zone en rouge présente une planche de multiplex de 35 cm de large qui fait le tour de la baie, et la zone en jaune l'emplacement où sera fixé le chassis, qui se trouve donc accroché au mur en quelque sorte. Le dessin a pour but de faire saisir le décrochement de l'encadrement de 35 cm de large, qui déborde du mur en béton cellulaire de 20 cm d'épaisseur. Cette solution a l’avantage de faciliter la gestion de l’étanchéité à l’air, et d’optimiser l’éclairement intérieur.
 

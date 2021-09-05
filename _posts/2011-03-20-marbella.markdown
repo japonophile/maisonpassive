@@ -9,7 +9,7 @@ status: publish
 
 Ca sonne comme une plage de la costa del sol, mais c’est le nom de ce qui me tiendra lieu de « fer à repasser »
 
-_[![](/images/2011/03/ferarepasser-150x150.jpg "ferarepasser")](/images/2011/03/ferarepasser.jpg)_
+_[![]({{ site.url }}{{ site.baseurl }}/images/2011/03/ferarepasser-150x150.jpg "ferarepasser")]({{ site.url }}{{ site.baseurl }}/images/2011/03/ferarepasser.jpg)_
 
 En effet je viens de prendre une importante décision concernant le chauffage d’appoint de la maison passive.
 
@@ -27,18 +27,18 @@ Le surf a parfois du bon : j’ai fini pas trouver mon bonheur sur un site alle
 
 J’ai tapé « poêle bouilleur », et j’ai trouvé parmi les 29000 réponses obtenues, un lien vers le site de [ofenseite.com](http://www.ofenseite.com/Accueil ) où j’ai trouvé :
 
- _[![](/images/2011/03/wasserfuehrender-Holzofen-Marbella-Compact_b4-226x300.jpg "wasserfuehrender-Holzofen-Marbella-Compact_b4")](/images/2011/03/wasserfuehrender-Holzofen-Marbella-Compact_b4.jpg)_ 
+ _[![]({{ site.url }}{{ site.baseurl }}/images/2011/03/wasserfuehrender-Holzofen-Marbella-Compact_b4-226x300.jpg "wasserfuehrender-Holzofen-Marbella-Compact_b4")]({{ site.url }}{{ site.baseurl }}/images/2011/03/wasserfuehrender-Holzofen-Marbella-Compact_b4.jpg)_ 
 
 Très allemand malgré quelques traductions, moi qui ai des difficultés avec les langues germaniques ( ;-) ), je me suis accroché et j’ai fini par prendre contact. J’ai reçu en retour, avec une proposition de commande, une description détaillée et technique de l’appareil.
 
 Puissance 10 kW, 90 % consacré au chauffage de l’eau, régulation de transfert de chaleur, foyer étanche et , ô surprise, ô bonheur, une certification mais hélas pas encore celle du PHI, Passiv Haus Institut.
 
- _[![](/images/2011/03/certif-219x300.jpg "certif")](/images/2011/03/certif.jpg)_ 
+ _[![]({{ site.url }}{{ site.baseurl }}/images/2011/03/certif-219x300.jpg "certif")]({{ site.url }}{{ site.baseurl }}/images/2011/03/certif.jpg)_ 
 
 Zut et rezut, moi qui croyais me lancer dans l’appel d’offre pour un test d’infiltrométrie, je dois d’abord installer ce poêle et assurer l’étanchéité des conduites !
 
 Entre temps, j’ai avec l’aide de Douglas - ou plutôt Douglas avec mon aide – résolu le problème de la PC (prise de courant en jargon d’installation électrique) qui n’était alimentée que par une phase. Le cable du neutre n’était pas correctement raccordé au « [wago](http://www.wago.com/cps/rde/xchg/wago/style.xsl/fra-index.html) » de la connexion précédente dans le circuit ! je pense que je vais faire le tour de mes boites pour inspecter les points faibles que je pourrais avoir laissé derrière moi.
 
- _[![](/images/2011/03/revlmont110319-300x300.jpg "revlmont110319")](/images/2011/03/revlmont110319.jpg)_ 
+ _[![]({{ site.url }}{{ site.baseurl }}/images/2011/03/revlmont110319-300x300.jpg "revlmont110319")]({{ site.url }}{{ site.baseurl }}/images/2011/03/revlmont110319.jpg)_ 
 
 Et à temps perdu, je continue à bichonner la préparation de l’installation de la cuisine pour le 29/03 : placer les robinets double service, vérifier les dimensions de la hotte, la boite de dérivation pour le branchement de la taque à induction… Il ne me restera plus qu’à coller les évacuations d’eau, mais pour cela, j’attends que le monteur soit sur place pour me certifier que je ne devrai pas les déplacer pour qu’il puisse mettre ses meubles.

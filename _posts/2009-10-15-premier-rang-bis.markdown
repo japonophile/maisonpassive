@@ -15,17 +15,17 @@ Sans doute que ma feuille de polyéthylène n’a pas été posée dans les règ
 
 Je sais bien qu’une construction en béton cellulaire devrait être totalement blanche à l’extérieur, alors que mon assise de ciment va laisser voir une trace noire tout autour du batiment. Mais ce ‘pont thermique’ sera protégé par 40 cm d’isolation extérieure. Alors… !
 
-![coupe-nord-sud1](/images/2009/10/coupe-nord-sud1-300x168.jpg "coupe-nord-sud1")Pour reprendre les niveaux, faire le tour et me retrouver à l’horizontale la plus exacte possible, respecter les angles droits dans les coins, nous avons commencé par placer ces coins.
+![coupe-nord-sud1]({{ site.url }}{{ site.baseurl }}/images/2009/10/coupe-nord-sud1-300x168.jpg "coupe-nord-sud1")Pour reprendre les niveaux, faire le tour et me retrouver à l’horizontale la plus exacte possible, respecter les angles droits dans les coins, nous avons commencé par placer ces coins.
 
-![pose du premier rang au rez de chaussée](/images/2009/10/img_0773-300x224.jpg "img_0773")
+![pose du premier rang au rez de chaussée]({{ site.url }}{{ site.baseurl }}/images/2009/10/img_0773-300x224.jpg "img_0773")
 
 Et nous avons vérifié au laser que d’un coin à l’autre on retrouve l’horizontale
 
-![point laser](/images/2009/10/img_0774-300x224.jpg "img_0774")
+![point laser]({{ site.url }}{{ site.baseurl }}/images/2009/10/img_0774-300x224.jpg "img_0774")
 
 Puis nous avons fait le tour, en respectant bien sur les ouvertures : la porte d’entrée au nord, les baies vitrées au sur, et la porte de communication dans le mur de refend entre le volume principal et l’espace technique.
 
-![img_0775](/images/2009/10/img_0775-300x224.jpg "img_0775")
+![img_0775]({{ site.url }}{{ site.baseurl }}/images/2009/10/img_0775-300x224.jpg "img_0775")
 
 Je n’ai pas de photo de la fabrication du mortier, (j’aurai encore des occasions d’en faire, sans doute) mais je peux dire que la bétonnière est un bon moyen pour faire un mélange lisse, pâteux à souhaits et facile d’emploi. Merci Salvatore !
 

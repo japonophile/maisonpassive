@@ -11,7 +11,7 @@ Une bonne semaine passée sur place m’a permis de donner un coup de collier, a
 
 Samedi dernier, j’ai organisé un « chantier » : avec mes deux « ouvriers » du jour, (mon fils et mon cousin), nous avons mis en place en quelques heures les dix mètres de coffrage et de béton armé qui couronnent les baies du « rez de chaussée » du coté sud.
 
-![montage linteau 5m](/images/2009/11/montage4a-300x200.jpg "montage linteau 5m")
+![montage linteau 5m]({{ site.url }}{{ site.baseurl }}/images/2009/11/montage4a-300x200.jpg "montage linteau 5m")
 
 Ce n’est pas a proprement parler difficile, mais c’est impressionnant.
 
@@ -23,13 +23,13 @@ Et enfin, les linteaux sont remplis de béton, ce matériau que je redoutais de 
 
 Contrairement au BC, le béton de ciment se manipule à la pelle, par seau, par brouette, et il faut le monter à bout de bras jusqu'à l’endroit où on commence à le mettre en place, à le tasser, le faire rentrer dans les recoins des armatures. Mais à 17h00 (en ayant commence vers 13h00), nous étions au bout.
 
-![remplissage linteau U](/images/2009/11/montage5b-300x200.jpg "remplissage linteau U")
+![remplissage linteau U]({{ site.url }}{{ site.baseurl }}/images/2009/11/montage5b-300x200.jpg "remplissage linteau U")
 
 Il ne me restait plus qu’à monter les trois rangs qui couronnent le mur sud, pour donner au toit les 5 degrés ou 9 % de pente nécessaire au toit de bac acier. C’est là que j’ai apprécié les blocs qui s’emboîtent l’un dans l’autre. J’ai pu placer pratiquement un rang complet à chaque fois sans devoir retravailler l’alignement, juste prendre soin de les poser sur un lit de colle assez régulier et horizontal pour que le mur soit bien vertical. Une légère pression sur chaque bloc, niveau en main, une petite rectification d’emboîtement, et le mur s’est élevé de 25 cm en quelques minutes.
 
-![mur sud complet](/images/2009/11/img_0881-300x224.jpg "mur sud complet")Comme le montre la dernière prise de vue, il ne reste plus que quelques blocs à ranger sur le mur pignon pour rattraper le niveau de la poutre, qui est ici figurée par un tronc de sapin. (j'en ai encore d'autres sur le terrain, mais pas assez pour faire ma charpente avec, c'est dommage!?)
+![mur sud complet]({{ site.url }}{{ site.baseurl }}/images/2009/11/img_0881-300x224.jpg "mur sud complet")Comme le montre la dernière prise de vue, il ne reste plus que quelques blocs à ranger sur le mur pignon pour rattraper le niveau de la poutre, qui est ici figurée par un tronc de sapin. (j'en ai encore d'autres sur le terrain, mais pas assez pour faire ma charpente avec, c'est dommage!?)
 
-![le pignon ouest presque terminé](/images/2009/11/img_0882-300x224.jpg "le pignon ouest presque terminé")
+![le pignon ouest presque terminé]({{ site.url }}{{ site.baseurl }}/images/2009/11/img_0882-300x224.jpg "le pignon ouest presque terminé")
 
 Les isolations du toit et des murs vont communiquer sous le toit, contre les poutres pour former un cocon bien continu et ne permettre aucun passage de chaleur une fois mises en place.
 

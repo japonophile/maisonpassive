@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-1. ![](/images/2011/05/IMG_6204.jpg)MARINIER dit :
+1. ![]({{ site.url }}{{ site.baseurl }}/images/2011/05/IMG_6204.jpg)MARINIER dit :
     
     [4 mai 2011 à 23 h 17 min](http://maisonpassive.choppin.be/?page_id=2&cpage=1#comment-762) [(Modifier)](http://maisonpassive.choppin.be/wp-admin/comment.php?action=editcomment&c=762 "Modifier le commentaire")
     
@@ -21,7 +21,7 @@ status: publish
     
     malheureusement, chez moi le bardage n’est pas encore posé…mais j peux attester de la qualité du bois, qui attends encore un peu que je puisse enfin m’y mettre. par contre, a quelques km, là où j’ai vu ce bardage pour la première fois, il est impeccable:
     
-     [![](/images/2011/05/IMG_6203-150x150.jpg "IMG_6203")](/images/2011/05/IMG_6203.jpg) [![](/images/2011/05/IMG_6204-150x150.jpg "IMG_6204")](/images/2011/05/IMG_6204.jpg)
+     [![]({{ site.url }}{{ site.baseurl }}/images/2011/05/IMG_6203-150x150.jpg "IMG_6203")]({{ site.url }}{{ site.baseurl }}/images/2011/05/IMG_6203.jpg) [![]({{ site.url }}{{ site.baseurl }}/images/2011/05/IMG_6204-150x150.jpg "IMG_6204")]({{ site.url }}{{ site.baseurl }}/images/2011/05/IMG_6204.jpg)
     
 
 [Alain\_Gt](http://twitter.com/#!/Alain_Gt "Alain G") Alain G

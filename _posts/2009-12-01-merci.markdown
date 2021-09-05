@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-![att00001r](/images/2009/12/att00001r-300x63.jpg "att00001r")
+![att00001r]({{ site.url }}{{ site.baseurl }}/images/2009/12/att00001r-300x63.jpg "att00001r")
 
 J’ai reçu un courriel de Xella aujourd’hui!
 

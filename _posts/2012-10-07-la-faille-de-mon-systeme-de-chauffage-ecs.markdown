@@ -15,7 +15,7 @@ Un système tellement idéal qui tombe en panne ? je crois que j’ai mis le do
 
 Il faut savoir que l’ »ordinateur » de ce système est piloté à l’aide de 4 sondes de température :
 
-[![](/images/2012/10/SAM_1860-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2012/10/SAM_1860.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/10/SAM_1860-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/10/SAM_1860.jpg)
 
 Une donne la température des capteurs solaires (dans mon cas des tubes). Tant que les tubes ne sont pas assez chauds selon l’algorithme de régulation, il n’y a pas de circulation d’eau dans le système.
 

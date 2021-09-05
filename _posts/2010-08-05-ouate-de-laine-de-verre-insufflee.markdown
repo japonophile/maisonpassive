@@ -9,7 +9,7 @@ status: publish
 
 J’ai donc choisi de remplir mes caissons d’isolation extérieure en ouate de laine de verre [supafil](http://www.knauf.be/Supafil_news_FR.htm) ®.
 
-[![](/images/2010/08/IMG_0004-300x224.jpg "IMG_0004")](/images/2010/08/IMG_0004.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0004-300x224.jpg "IMG_0004")]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0004.jpg)
 
 Au départ j’avais envisagé la cellulose, mais le coefficient lambda de ce produit ne me donnait pas –avec l’épaisseur envisagée des caissons - la performance nécessaire des parois pour arriver au 15 kWh/m².an du PHPP. Le λ admis pour le PHPP est pour la Ouate de Cellulose 0,04 et pour la Ouate de laine de verre  0,034 W/mK.
 
@@ -27,7 +27,7 @@ De plus la ouate de laine de verre est plus légère : 32,540 kg / m³ dans mon
 
 Et dernier avantage, non des moindres, l’entreprise que j’ai choisie n’exigeait pas de moi des caissons étanches entre eux. Au contraire, la communication entre les murs et le toit m'a permis d’être certain d’éviter tout pont thermique entre les murs et le toit. Du sol au sol, le matelas de flocons blancs est continu.
 
-[![](/images/2010/08/IMG_1052-300x224.jpg "IMG_1052")](/images/2010/08/IMG_1052.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_1052-300x224.jpg "IMG_1052")]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_1052.jpg)
 
 Parmi les autres aspects comparatifs, j’ai
 
@@ -45,17 +45,17 @@ Lieu de production et circuit de distribution : les deux produits viennent d’
 
 Tout bien compris, la qualité du rapport avec l’artisan me semblait primordiale. J’ai finalement opté pour le meilleur rapport qualité prix, et je dois dire que l’équipe qui effectue l’insufflation me donne satisfaction.
 
-[![](/images/2010/08/IMG_0013-300x224.jpg "IMG_0013")](/images/2010/08/IMG_0013.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0013-300x224.jpg "IMG_0013")]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0013.jpg)
 
 Le plus impressionnant c’est la rapidité du procédé. Entre mardi matin 10h et jeudi 13h, 70 m³ de cette ouate ont trouvé leur placer dans les murs et le toi, à l’aide de la machine
 
-[![](/images/2010/08/IMG_0023-224x300.jpg "IMG_0023")](/images/2010/08/IMG_0023.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0023-224x300.jpg "IMG_0023")]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0023.jpg)
 
 Et des hommes
 
-[![](/images/2010/08/IMG_0236-300x224.jpg "IMG_0236")](/images/2010/08/IMG_0236.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0236-300x224.jpg "IMG_0236")]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0236.jpg)
 
-[![](/images/2010/08/IMG_0002-300x224.jpg "IMG_0002")](/images/2010/08/IMG_0002.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0002-300x224.jpg "IMG_0002")]({{ site.url }}{{ site.baseurl }}/images/2010/08/IMG_0002.jpg)
 
 Encore une étape passée
 

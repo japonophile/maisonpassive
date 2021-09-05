@@ -29,7 +29,7 @@ Quoi de plus naturel ? Nos anciens savaient cela, tous les lieux ne sont pas bo
 
  Voilà, la boucle est bouclée : isolation particulièrement soignée (proportionnellement au climat local), absence quasi totale de ponts thermiques et étanchéité à l’air sont les caractéristiques de la maison passive.
 
-[![](/images/2010/01/Woody-Allen-infatigable-211x300.jpg "Woody-Allen-infatigable")](/images/2010/01/Woody-Allen-infatigable.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/01/Woody-Allen-infatigable-211x300.jpg "Woody-Allen-infatigable")]({{ site.url }}{{ site.baseurl }}/images/2010/01/Woody-Allen-infatigable.jpg)
 
  
 

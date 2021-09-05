@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-[![](/images/2011/10/SAM_1854-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/10/SAM_1854.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1854-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1854.jpg)
 
 Aujourd’hui j’ai testé mon poele.
 
@@ -19,17 +19,17 @@ Et là ça devenait juste, puisque j’avais 36 ° après ma douche.
 
 J’ai donc réuni quelques buches de charme bien sec, un tas de petit bois et un allume feu (ho le vilain geste ! mais je ne suis pas encore très habile pour allumer juste avec du papier)
 
-[![](/images/2011/10/SAM_1856-225x300.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/10/SAM_1856.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1856-225x300.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1856.jpg)
 
 En une demi-heure, le feu a pris au point de faire monter la température de l’échangeur à 60°. Je mets en route le circulateur, dont l’asservissement n’est pas encore installé, et la température du ballon monte doucement, pendant que celle de l’échangeur du poele diminue.
 
-[![](/images/2011/10/SAM_1858-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/10/SAM_1858.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1858-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1858.jpg)
 
 L’échangeur continue a monter pour se stabiliser à 80°, pendant que le ballon se réchauffe.
 
 En trois quarts d’heure, j’ai brulé trois morceaux de bois, j’ai fait remonter le ballon à 66 °, alors que les tubes restent à 33°. plus que la température de l'air (+/- 12), mais trop peu pour enclencher la circulation du chauffage solaire
 
-[![](/images/2011/10/SAM_1860-300x225.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/10/SAM_1860.jpg)[![](/images/2011/10/SAM_1859a-300x122.jpg "SAMSUNG DIGITAL CAMERA")](/images/2011/10/SAM_1859a.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1860-300x225.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1860.jpg)[![]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1859a-300x122.jpg "SAMSUNG DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2011/10/SAM_1859a.jpg)
 
 j’ai ouvert la fenêtre parce qu’il faisait 25 ° dans le séjour. Ok, de toutes façons, tant que la VMC n’est pas en route, c’est comme ça que j’aère tous les matins.
 

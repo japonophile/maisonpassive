@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-Je disais en janvier dernier dans mon post **[attente (encore)]({% post_url 2010-01-06-attente-encore %})**
+Je disais en janvier dernier dans mon post **[attente (encore)]({% link _posts/2010-01-06-attente-encore.markdown %})**
 
 « Et la surchauffe, me direz-vous ? Eh bien là, on verra. La canicule à Revleumont, dans les bois, j’attends encore de voir ! »
 
@@ -15,7 +15,7 @@ He bien si, malgré l'épaisseur de la forêt, la canicule, on en  a eu un avan
 
 Les lauriers roses en ont profité, nous avons eu une magnifique floraison.
 
-[![](/images/2010/07/IMG_0186-300x224.jpg "IMG_0186")](/images/2010/07/IMG_0186.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2010/07/IMG_0186-300x224.jpg "IMG_0186")]({{ site.url }}{{ site.baseurl }}/images/2010/07/IMG_0186.jpg)
 
 La maison n’est pas encore isolée, juste fermée. Bien sur, 20 cm de Béton cellulaire (λ = 0,09)  et des triple vitrages (Uw = 0.6), ça apporte déjà un certain degré d’isolation. Et je peux dire qu’elle a déjà une certaine capacité à amortir les écarts thermiques. Chaude le matin par comparaison avec la fraicheur de la nuit, encore fraîche en fin de journée si on garde les fenetres fermées, et cela sans l’aide des arbres environnants qui agiront surtout en demi-saison : il ne faut pas oublier que l’ombre portée diminue avec la hauteur du soleil, elle est donc au minimum au solstice d’été.
 

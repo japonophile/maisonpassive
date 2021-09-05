@@ -7,7 +7,7 @@ published: true
 status: publish
 ---
 
-J’ai déjà abordé succinctement le sujet dans le post [marbella]({% post_url 2011-03-20-marbella %}) . Au risque de me repeter, je reprends la réflexion où je l'ai laissée.
+J’ai déjà abordé succinctement le sujet dans le post [marbella]({% link _posts/2011-03-20-marbella.markdown %}) . Au risque de me repeter, je reprends la réflexion où je l'ai laissée.
 
 J’ai commencé ma construction sans trop savoir vers quoi je me dirigeais. Les premiers plans prévoyaient un poele à bois, plus pour la beauté de la chose que par nécessité intrinsèque.
 

@@ -11,9 +11,9 @@ Jour heureux à marquer d’une pierre blanche
 
 Après la ruée vers les nouveaux espaces que nous avons connue pour le weekend de pentecôte, qui nous a vus à 18 occuper la maison, le jardin et le barbecue,
 
-[![](/images/2012/06/P5260351-300x225.jpg "OLYMPUS DIGITAL CAMERA")](/images/2012/06/P5260351.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/06/P5260351-300x225.jpg "OLYMPUS DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/06/P5260351.jpg)
 
-[![](/images/2012/06/P5270353-300x225.jpg "OLYMPUS DIGITAL CAMERA")](/images/2012/06/P5270353.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/06/P5270353-300x225.jpg "OLYMPUS DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/06/P5270353.jpg)
 
 Nous voila ce weekend à la tête d’une confortable moisson de plantes toutes plus personnalisées les unes que les autres.
 
@@ -21,7 +21,7 @@ François a délaissé le chat de Denis pour venir conduire à bon port une foul
 
 C’est chose faite, nous avons occupé notre dimanche à mettre ne place les diverses productions : seringa, mahonia, cognassier du japon, hosta, laurier tin, rhubarbe, oseille, pivoine, lysimaque…
 
-[![](/images/2012/06/P6030362-300x225.jpg "OLYMPUS DIGITAL CAMERA")](/images/2012/06/P6030362.jpg)
+[![]({{ site.url }}{{ site.baseurl }}/images/2012/06/P6030362-300x225.jpg "OLYMPUS DIGITAL CAMERA")]({{ site.url }}{{ site.baseurl }}/images/2012/06/P6030362.jpg)
 
 J’ai aussi déplacé quelques plantes qui habitaient déjà ici : sédum, oreilles d’ours, iris originaires d’Auch, buxus en place depuis trois ans le long de la caravane, et même quelques fougères, hôtes naturels de la foret, qui comblent bien les trous encore visibles dans les massifs... résultat : un parterre qui séparera l’esplanade du barbecue de la lagune supérieure à tiffa.
 
