@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qui suis-je?
-permalink: /about/
+type: page
 ---
 
 Comme tant d’autres, j’ai aussi envie de faire partager l’histoire de notre construction.
